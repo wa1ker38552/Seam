@@ -55,9 +55,9 @@ def scrape_agent_page(url):
         'first_name': name.split()[0],
         'full_name': name,
         'broker': broker,
-        'average_price': average_price,
+        'yearly_sales': average_price, # mis-named
         'total_sales': total_sales,
-        'yearly_sales': yearly_sales,
+        'average_price': yearly_sales, # mis-named
         'last_two_listings': listings
     }
 

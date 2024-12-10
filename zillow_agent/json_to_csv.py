@@ -10,6 +10,7 @@ with open('zillow_agent_data.json', 'r') as json_file, open('data.csv', 'w', new
         item['listing_2'] = item['last_two_listings'][1]
         item['listing_1_formatted'] = item['last_two_listings'][0].split(',')[0]
         item['listing_2_formatted'] = item['last_two_listings'][1].split(',')[0]
+        item['yearly_sales'], item['average_price'] = item['average_price'], item['yearly_sales']
         del item['last_two_listings']
         parsed.append(item)
 
