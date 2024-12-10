@@ -8,6 +8,8 @@ with open('zillow_agent_data.json', 'r') as json_file, open('data.csv', 'w', new
     for item in data:
         item['listing_1'] = item['last_two_listings'][0]
         item['listing_2'] = item['last_two_listings'][1]
+        item['listing_1_formatted'] = item['last_two_listings'][0].split(',')[0]
+        item['listing_2_formatted'] = item['last_two_listings'][1].split(',')[0]
         del item['last_two_listings']
         parsed.append(item)
 
