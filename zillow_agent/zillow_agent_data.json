@@ -1,0 +1,1757 @@
+[
+  {
+    "first_name": "Brett",
+    "full_name": "Brett Jennings",
+    "broker": "Real Estate Experts",
+    "average_price": 274,
+    "total_sales": 2558,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "20238 Northwest Sq, Cupertino, CA, 95014",
+      "124 Treetop Dr, Santa Cruz, CA, 95060"
+    ],
+    "linkedin": "https://www.linkedin.com/in/brettjennings"
+  },
+  {
+    "first_name": "Julie",
+    "full_name": "Julie Wyss",
+    "broker": "Keller Williams Bay Area Estates",
+    "average_price": 39,
+    "total_sales": 745,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "1541 Casa De Ponselle, San Jose, CA, 95118",
+      "2342 Richland Ave, San Jose, CA, 95125"
+    ],
+    "linkedin": "https://www.linkedin.com/in/julielarsenwyss"
+  },
+  {
+    "first_name": "Enrique",
+    "full_name": "Enrique Medellin",
+    "broker": "PRG Real Estate brokered by EXP",
+    "average_price": 45,
+    "total_sales": 601,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "774 Wisteria Dr, Gilroy, CA, 95020",
+      "1620 Cushman St, Hollister, CA, 95023"
+    ],
+    "linkedin": "https://www.linkedin.com/in/adrian-martinez-4b005a259"
+  },
+  {
+    "first_name": "Michael",
+    "full_name": "Michael Ramos",
+    "broker": "Momentum Realty",
+    "average_price": 50,
+    "total_sales": 828,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "205 Red Oak Dr W APT B, Sunnyvale, CA, 94086",
+      "935 Old County Rd UNIT 23, Belmont, CA, 94002"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mikeramosrealtor"
+  },
+  {
+    "first_name": "Amar",
+    "full_name": "Amar REALTOR\u00ae Bay Area Top Best REALTOR\u00ae",
+    "broker": "Amar REALTOR\u00ae",
+    "average_price": 44,
+    "total_sales": 978,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "4136 San Bernardino Way, San Jose, CA, 95111",
+      "7577 Birkdale Dr, Newark, CA, 94560"
+    ],
+    "linkedin": "https://www.linkedin.com/in/amarrealtor"
+  },
+  {
+    "first_name": "Boyenga",
+    "full_name": "Boyenga Team",
+    "broker": "BOYENGA TEAM  +  Compass",
+    "average_price": 59,
+    "total_sales": 1708,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "1477 Cherry Garden Ln, San Jose, CA, 95125",
+      "838 Devonshire Way, Sunnyvale, CA, 94087"
+    ],
+    "linkedin": "https://www.linkedin.com/in/eboyenga"
+  },
+  {
+    "first_name": "Mark",
+    "full_name": "Mark DeTar",
+    "broker": "Compass",
+    "average_price": 13,
+    "total_sales": 367,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "15132 Penitencia Creek Rd, San Jose, CA, 95132",
+      "977 Feller Ave, San Jose, CA, 95127"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mark-detar-394b4816"
+  },
+  {
+    "first_name": "Andy",
+    "full_name": "Andy Tse",
+    "broker": "Tse Group",
+    "average_price": 223,
+    "total_sales": 1874,
+    "yearly_sales": 2400000,
+    "last_two_listings": [
+      "4958 Red Creek Dr, San Jose, CA, 95136",
+      "18941 Cyril Pl, Saratoga, CA, 95070"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tseandy"
+  },
+  {
+    "first_name": "Cathy",
+    "full_name": "Cathy Jackson",
+    "broker": "Intero Real Estate Services",
+    "average_price": 9,
+    "total_sales": 477,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "364 Blackwell Dr, Los Gatos, CA, 95032",
+      "2059 Folle Blanche Dr, San Jose, CA, 95135"
+    ],
+    "linkedin": "https://www.linkedin.com/in/cathymjackson"
+  },
+  {
+    "first_name": "Mike",
+    "full_name": "Mike Bui",
+    "broker": "EQ1 Real Estate",
+    "average_price": 102,
+    "total_sales": 1220,
+    "yearly_sales": 1200000,
+    "last_two_listings": [
+      "3935 Wellington Sq, San Jose, CA, 95136",
+      "38 N Almaden Blvd UNIT 1700, San Jose, CA, 95110"
+    ],
+    "linkedin": "https://www.linkedin.com/in/whoismikebui"
+  },
+  {
+    "first_name": "Oldham",
+    "full_name": "Oldham Group Compass",
+    "broker": "Compass",
+    "average_price": 153,
+    "total_sales": 877,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "41 El Paseo St #41, Campbell, CA, 95008",
+      "7601 Hanna St, Gilroy, CA, 95020"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jennifer-oldham-realtor-4b01b51b"
+  },
+  {
+    "first_name": "Samit",
+    "full_name": "Samit Shah",
+    "broker": "Compass",
+    "average_price": 74,
+    "total_sales": 509,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "3015 Remington Way, San Jose, CA, 95148",
+      "3044 Summerhill Ct, San Jose, CA, 95148"
+    ],
+    "linkedin": "https://www.linkedin.com/in/samit-shah-496041254"
+  },
+  {
+    "first_name": "Yasir",
+    "full_name": "Yasir Aladdin",
+    "broker": "Compass",
+    "average_price": 52,
+    "total_sales": 419,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "2627 Fordham St, East Palo Alto, CA, 94303",
+      "1375 Dolores St, San Francisco, CA, 94110"
+    ],
+    "linkedin": "https://www.linkedin.com/in/yasir-aladdin-40215659"
+  },
+  {
+    "first_name": "Zaid",
+    "full_name": "Zaid Hanna",
+    "broker": "Real Estate 38",
+    "average_price": 63,
+    "total_sales": 1209,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "5680 Silver Leaf Rd, San Jose, CA, 95138",
+      "134 Pine Wood Ln, Los Gatos, CA, 95032"
+    ],
+    "linkedin": "https://www.linkedin.com/in/zaid-hanna"
+  },
+  {
+    "first_name": "Sophie",
+    "full_name": "Sophie Shen",
+    "broker": "KW Thrive",
+    "average_price": 60,
+    "total_sales": 620,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "2553 Northwood Dr, San Jose, CA, 95132",
+      "2478 Autumnvale Ave, San Jose, CA, 95131"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sophie-shen-cfa-sophieshencfa-gmail-com-49a7015"
+  },
+  {
+    "first_name": "Sereno",
+    "full_name": "Sereno Group Service Team",
+    "broker": "Sereno Group",
+    "average_price": 16,
+    "total_sales": 717,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "5594 Bobbywood Ave, San Jose, CA, 95124",
+      "1555 Wessex Ave, Los Altos, CA, 94024"
+    ],
+    "linkedin": "https://www.linkedin.com/in/annvurealestate"
+  },
+  {
+    "first_name": "Sandy",
+    "full_name": "Sandy Jamison",
+    "broker": "Tuscana Properties",
+    "average_price": 68,
+    "total_sales": 1096,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "249 Packing Pl, San Jose, CA, 95116",
+      "3599 Peak Dr, San Jose, CA, 95127"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sandy-jamison-1559a0"
+  },
+  {
+    "first_name": "Keith",
+    "full_name": "Keith and Kris Walker",
+    "broker": "Intero Real Estate",
+    "average_price": 27,
+    "total_sales": 721,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "1738 Hillmont Ave, San Jose, CA, 95127",
+      "2557 McLaren Ln, San Ramon, CA, 94582"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kris-a-walker-111373128"
+  },
+  {
+    "first_name": "Lisa",
+    "full_name": "Lisa Thompson",
+    "broker": "Intero Real Estate Services",
+    "average_price": 23,
+    "total_sales": 243,
+    "yearly_sales": 2100000,
+    "last_two_listings": [
+      "1355 Valota Rd, Redwood City, CA, 94061",
+      "215 Jo Dr, Los Gatos, CA, 95032"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lisa-thompson-63551b85"
+  },
+  {
+    "first_name": "David",
+    "full_name": "David Long",
+    "broker": "Sereno Group ",
+    "average_price": 7,
+    "total_sales": 280,
+    "yearly_sales": 1800000,
+    "last_two_listings": [
+      "1695 Cherry Ave, San Jose, CA, 95125",
+      "1871 Briarwood Dr, Santa Clara, CA, 95051"
+    ],
+    "linkedin": "https://www.linkedin.com/in/djlonggroup"
+  },
+  {
+    "first_name": "Rabia",
+    "full_name": "Rabia Alizai",
+    "broker": "The Rabia Team",
+    "average_price": 51,
+    "total_sales": 471,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "1098 Lund Ter, Sunnyvale, CA, 94089",
+      "457 Tyndall St APT 2, Los Altos, CA, 94022"
+    ],
+    "linkedin": "https://www.linkedin.com/in/rabiaalizai"
+  },
+  {
+    "first_name": "Doug",
+    "full_name": "Doug Goss",
+    "broker": "Keller Williams Bay Area Estates",
+    "average_price": 26,
+    "total_sales": 1204,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "491 Villa St, Mountain View, CA, 94041",
+      "2929 Crocker Ct, Aptos, CA, 95003"
+    ],
+    "linkedin": "https://www.linkedin.com/in/douggoss"
+  },
+  {
+    "first_name": "Angelina",
+    "full_name": "Angelina Doan",
+    "broker": "Patrick / Angelina Doan & Associates",
+    "average_price": 7,
+    "total_sales": 839,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "247 N Capitol Ave UNIT 224, San Jose, CA, 95127",
+      "744 Overture Ct, San Jose, CA, 95134"
+    ],
+    "linkedin": "https://www.linkedin.com/in/patrick-p-doan-76496b31"
+  },
+  {
+    "first_name": "Mary",
+    "full_name": "Mary Clark",
+    "broker": "Intero Real Estate Services",
+    "average_price": 34,
+    "total_sales": 277,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "23007 Cricket Hill Rd, Cupertino, CA, 95014",
+      "1548 Rosecrest Ter, San Jose, CA, 95126"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mary-clark-5a194710a"
+  },
+  {
+    "first_name": "Russ",
+    "full_name": "Russ Sadykhov",
+    "broker": "Coldwell Banker",
+    "average_price": 11,
+    "total_sales": 306,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "4166 Thain Way, Palo Alto, CA, 94306",
+      "17514 Phillips Ave, Los Gatos, CA, 95030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/rustamsadykhov"
+  },
+  {
+    "first_name": "Matt",
+    "full_name": "Matt Tenczar",
+    "broker": "COMPASS",
+    "average_price": 16,
+    "total_sales": 266,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "6946 Maiden Ln, San Jose, CA, 95120",
+      "5245 Rio Lobo Dr, San Jose, CA, 95136"
+    ],
+    "linkedin": "https://www.linkedin.com/in/matt-tenczar-6164b416"
+  },
+  {
+    "first_name": "VKG",
+    "full_name": "VKG Real Estate Group",
+    "broker": "Keller Williams Bay Area Estates",
+    "average_price": 90,
+    "total_sales": 1201,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "2250 Monroe St APT 394, Santa Clara, CA, 95050",
+      "10462 Plum Tree Ln, Cupertino, CA, 95014"
+    ],
+    "linkedin": "https://www.linkedin.com/in/davidgiambruno"
+  },
+  {
+    "first_name": "Suzanne",
+    "full_name": "Suzanne Hunter",
+    "broker": "Intero Real Estate",
+    "average_price": 8,
+    "total_sales": 166,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "3791 Jarvis Ave, San Jose, CA, 95118",
+      "6184 Castillon Dr, Newark, CA, 94560"
+    ],
+    "linkedin": "https://www.linkedin.com/in/suzanne-hunter-20627b16"
+  },
+  {
+    "first_name": "Brad",
+    "full_name": "Brad Gill",
+    "broker": "NextHome Lifestyles",
+    "average_price": 36,
+    "total_sales": 499,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "2892 Newark Way, San Jose, CA, 95124",
+      "373 Rosewood Ave, San Jose, CA, 95117"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bradgill"
+  },
+  {
+    "first_name": "Thao",
+    "full_name": "Thao Dang and Brian Ng Real Estate Group",
+    "broker": "Block Change Real Estate",
+    "average_price": 47,
+    "total_sales": 904,
+    "yearly_sales": 2300000,
+    "last_two_listings": [
+      "5437 Silver Vista Way, San Jose, CA, 95138",
+      "17 Hillcrest Rd, San Carlos, CA, 94070"
+    ],
+    "linkedin": "https://www.linkedin.com/in/thaodangblockchangere"
+  },
+  {
+    "first_name": "Eric",
+    "full_name": "Eric Woodward",
+    "broker": "Upswing Real Estate",
+    "average_price": 34,
+    "total_sales": 549,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "851 W San Fernando St, San Jose, CA, 95126",
+      "88 E San Fernando St UNIT 301, San Jose, CA, 95113"
+    ],
+    "linkedin": "https://www.linkedin.com/in/eric-woodward-real-estate"
+  },
+  {
+    "first_name": "Scott",
+    "full_name": "Scott Grant",
+    "broker": "Intero Real Estate Services, Inc.",
+    "average_price": 5,
+    "total_sales": 302,
+    "yearly_sales": 2300000,
+    "last_two_listings": [
+      "5222 Hawkstone Way, San Jose, CA, 95138",
+      "5020 Birkdale Way, San Jose, CA, 95138"
+    ],
+    "linkedin": "https://www.linkedin.com/in/scott-grant-a981029"
+  },
+  {
+    "first_name": "Ed",
+    "full_name": "Ed Karzai",
+    "broker": "Keller Williams Realty - Silicon Valley",
+    "average_price": 7,
+    "total_sales": 100,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "1482 Redmond Ave, San Jose, CA, 95120",
+      "668-670 Chemeketa Dr, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/edkarzai"
+  },
+  {
+    "first_name": "Gary",
+    "full_name": "Gary Shapiro",
+    "broker": "Keller Williams Bay Area Estates",
+    "average_price": 25,
+    "total_sales": 266,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "7229 Sleepy Creek Dr, San Jose, CA, 95120",
+      "3403 Prince Of Wales Ln, San Jose, CA, 95132"
+    ],
+    "linkedin": "https://www.linkedin.com/in/gary-shapiro-8a544ab"
+  },
+  {
+    "first_name": "Tony",
+    "full_name": "Tony Fery",
+    "broker": "Real Estate Experts",
+    "average_price": 8,
+    "total_sales": 95,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "1256 Lick Ave, San Jose, CA, 95110",
+      "1127 Fairview Ave, San Jose, CA, 95125"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tonyfery"
+  },
+  {
+    "first_name": "Joe",
+    "full_name": "Joe Ventura",
+    "broker": "Corcoran Icon Properties",
+    "average_price": 15,
+    "total_sales": 188,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "2525 Ontario Dr, San Jose, CA, 95124",
+      "185 Union Ave APT 76, Campbell, CA, 95008"
+    ],
+    "linkedin": "https://www.linkedin.com/in/joe-ventura-realtor"
+  },
+  {
+    "first_name": "Thuy",
+    "full_name": "Thuy Do",
+    "broker": " Intero, A Berkshire Hathaway Affilate",
+    "average_price": 12,
+    "total_sales": 270,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "35 Shenado Pl, San Jose, CA, 95136",
+      "16720 Cerro Vista Dr, Morgan Hill, CA, 95037"
+    ],
+    "linkedin": "https://www.linkedin.com/in/thuydorealtor"
+  },
+  {
+    "first_name": "Lily",
+    "full_name": "Lily Chow",
+    "broker": "Infinite Realty & Investments",
+    "average_price": 13,
+    "total_sales": 223,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "195 Del Monte Ln, Morgan Hill, CA, 95037",
+      "4654 Paloma Ave, San Jose, CA, 95111"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lily-chow-26657415"
+  },
+  {
+    "first_name": "Mei",
+    "full_name": "Mei Ling",
+    "broker": "8 Blocks Real Estate",
+    "average_price": 122,
+    "total_sales": 843,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "4189 Stewart Ln, Santa Clara, CA, 95054",
+      "22061 Lindy Ln, Cupertino, CA, 95014"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mei-ling-8blocks"
+  },
+  {
+    "first_name": "Tony",
+    "full_name": "Tony Ngai",
+    "broker": "TN Realty Inc",
+    "average_price": 10,
+    "total_sales": 125,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "2504 Copa Del Oro Dr, Union City, CA, 94587",
+      "37148 Sand Bar Pl, Newark, CA, 94560"
+    ],
+    "linkedin": "https://www.linkedin.com/in/soldbytonyngai"
+  },
+  {
+    "first_name": "Kamala",
+    "full_name": "Kamala Venkatesan",
+    "broker": "MREMC Thrive, Inc.",
+    "average_price": 12,
+    "total_sales": 185,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "37409 Ortega Cmn, Fremont, CA, 94536",
+      "2026 Nunes Dr, San Jose, CA, 95131"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Arpad",
+    "full_name": "Arpad Racz",
+    "broker": "Altas Realty / Financial Services",
+    "average_price": 336,
+    "total_sales": 1315,
+    "yearly_sales": 799000,
+    "last_two_listings": [
+      "265 Polaris Way, Daly City, CA, 94014",
+      "3654 Pointer Ct, Merced, CA, 95340"
+    ],
+    "linkedin": "https://www.linkedin.com/in/arpadracz"
+  },
+  {
+    "first_name": "Amanda",
+    "full_name": "Amanda Vang",
+    "broker": "Amanda Vang Team | Intero Real Estate Services",
+    "average_price": 21,
+    "total_sales": 80,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "740 Glenburry Way, San Jose, CA, 95123",
+      "4675 La Crescent Loop, San Jose, CA, 95136"
+    ],
+    "linkedin": "https://www.linkedin.com/in/amanda-vang"
+  },
+  {
+    "first_name": "Steve",
+    "full_name": "Steve Guerrero",
+    "broker": "Intero Real Estate Services",
+    "average_price": 11,
+    "total_sales": 133,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "932 Apricot Ave, Campbell, CA, 95008",
+      "848 Jackson St, San Jose, CA, 95112"
+    ],
+    "linkedin": "https://www.linkedin.com/in/steve-guerrero-9b387012"
+  },
+  {
+    "first_name": "Diane",
+    "full_name": "Diane Ji",
+    "broker": "Diane Ji",
+    "average_price": 16,
+    "total_sales": 95,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "519 Isabella Ave, El Granada, CA, 94018",
+      "1580 Hurka Way, Gilroy, CA, 95020"
+    ],
+    "linkedin": "https://www.linkedin.com/in/diane-ji-38525b40"
+  },
+  {
+    "first_name": "Julie",
+    "full_name": "Julie Davis",
+    "broker": "Compass",
+    "average_price": 6,
+    "total_sales": 249,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "108 N Claremont Ave, San Jose, CA, 95127",
+      "270 N Lake Blvd #13, Tahoe City, CA, 96145"
+    ],
+    "linkedin": "https://www.linkedin.com/in/julieodavis"
+  },
+  {
+    "first_name": "Ann",
+    "full_name": "Ann Thai",
+    "broker": "Compass",
+    "average_price": 23,
+    "total_sales": 232,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "2906 Fairfax Ave, San Jose, CA, 95148",
+      "2508 Yerba Hills Ct, San Jose, CA, 95121"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ann-thai-66617b"
+  },
+  {
+    "first_name": "Don",
+    "full_name": "Don Orason - Silicon Valley Team",
+    "broker": "Intero Real Estate - Berkshire Hathaway",
+    "average_price": 16,
+    "total_sales": 224,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "6962 Gregorich Dr UNIT B, San Jose, CA, 95138",
+      "5178 Cribari Knls, San Jose, CA, 95135"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sanjoserealestateagent"
+  },
+  {
+    "first_name": "Valerie",
+    "full_name": "Valerie Mein",
+    "broker": "Coldwell Banker",
+    "average_price": 30,
+    "total_sales": 451,
+    "yearly_sales": 2700000,
+    "last_two_listings": [
+      "2110 Ardis Dr, San Jose, CA, 95125",
+      "1464 Phantom Ave, San Jose, CA, 95125"
+    ],
+    "linkedin": "https://www.linkedin.com/in/val-mein-21a07811"
+  },
+  {
+    "first_name": "Kelly",
+    "full_name": "Kelly Wang and Wendy Zhang Realty Team",
+    "broker": "Realty Innova",
+    "average_price": 7,
+    "total_sales": 145,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "1796 Dalton Dr, Milpitas, CA, 95035",
+      "849 Gladiola Dr, Sunnyvale, CA, 94086"
+    ],
+    "linkedin": "https://www.linkedin.com/in/wendy-zhang-"
+  },
+  {
+    "first_name": "Vladimir",
+    "full_name": "Vladimir Westbrook",
+    "broker": "Coldwell Banker Realty",
+    "average_price": 23,
+    "total_sales": 228,
+    "yearly_sales": 1200000,
+    "last_two_listings": [
+      "482 Beresford Ave, Redwood City, CA, 94061",
+      "1048 Monroe St #315, Santa Clara, CA, 95050"
+    ],
+    "linkedin": "https://www.linkedin.com/in/vladimirwestbrook"
+  },
+  {
+    "first_name": "Xiaozhu(Daydreamer)",
+    "full_name": "Xiaozhu(Daydreamer) Kang",
+    "broker": "Coldwell Banker Realty",
+    "average_price": 73,
+    "total_sales": 328,
+    "yearly_sales": 1800000,
+    "last_two_listings": [
+      "1431 Currant Rd #41, Milpitas, CA, 95035",
+      "8192 Locust Pl S, Dublin, CA, 94568"
+    ],
+    "linkedin": "https://www.linkedin.com/in/daydreamerkang"
+  },
+  {
+    "first_name": "Terel",
+    "full_name": "Terel Beppu",
+    "broker": "Beppu Group, LLC, Real Estate Advisors | Side",
+    "average_price": 8,
+    "total_sales": 332,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "203 Proximity Way, San Jose, CA, 95110",
+      "4413 Keepsake Rose Cmn, Fremont, CA, 94538"
+    ],
+    "linkedin": "https://www.linkedin.com/in/terelbeppu"
+  },
+  {
+    "first_name": "Nicki",
+    "full_name": "Nicki Banucci",
+    "broker": "Compass",
+    "average_price": 19,
+    "total_sales": 254,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "1191 Holmes Ave, Campbell, CA, 95008",
+      "998 White Cloud Dr, Morgan Hill, CA, 95037"
+    ],
+    "linkedin": "https://www.linkedin.com/in/banucci"
+  },
+  {
+    "first_name": "Eric",
+    "full_name": "Eric Tran",
+    "broker": "Intero",
+    "average_price": 5,
+    "total_sales": 1068,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "19644 Needham Ln, Saratoga, CA, 95070",
+      "783 Alice Ave, Mountain View, CA, 94041"
+    ],
+    "linkedin": "https://www.linkedin.com/in/eric-huong-tran-58388b90"
+  },
+  {
+    "first_name": "Nneka",
+    "full_name": "Nneka Jenkins",
+    "broker": "Onyx Wealth Realty",
+    "average_price": 28,
+    "total_sales": 215,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "6050 Johnston Dr, Oakland, CA, 94611",
+      "1716 Grizilo Dr, San Jose, CA, 95124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nnekajenkins"
+  },
+  {
+    "first_name": "VINICIUS",
+    "full_name": "VINICIUS BRASIL",
+    "broker": "Keller Williams",
+    "average_price": 60,
+    "total_sales": 607,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "191 Loma Alta Ave, Los Gatos, CA, 95030",
+      "217 Saratoga Ave, Santa Clara, CA, 95050"
+    ],
+    "linkedin": "https://www.linkedin.com/in/viniciusbrasil"
+  },
+  {
+    "first_name": "Al",
+    "full_name": "Al MORIDI",
+    "broker": "INTERO - A Berkshire Hathaway Affiliate",
+    "average_price": 28,
+    "total_sales": 1108,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "740 Glenburry Way, San Jose, CA, 95123",
+      "2231 Menzel Pl, Santa Clara, CA, 95050"
+    ],
+    "linkedin": "https://www.linkedin.com/in/al-moridi-89a3a4204"
+  },
+  {
+    "first_name": "Sophia",
+    "full_name": "Sophia Delacotte",
+    "broker": "Compass",
+    "average_price": 1,
+    "total_sales": 97,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "5473 Makati Cir, San Jose, CA, 95123",
+      "8232 Claret Ct, San Jose, CA, 95135"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sophiadelacotte"
+  },
+  {
+    "first_name": "Grace",
+    "full_name": "Grace Tsang",
+    "broker": "Intero Real Estate",
+    "average_price": 23,
+    "total_sales": 221,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "875 Claremont Dr, Morgan Hill, CA, 95037",
+      "3728 Lindero Dr, Palo Alto, CA, 94306"
+    ],
+    "linkedin": "https://www.linkedin.com/in/gracetsangrealestate"
+  },
+  {
+    "first_name": "David",
+    "full_name": "David Zaria",
+    "broker": "Compass",
+    "average_price": 68,
+    "total_sales": 544,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "2551 Butch Dr, Gilroy, CA, 95020",
+      "2391 Mantelli Dr, Gilroy, CA, 95020"
+    ],
+    "linkedin": "https://www.linkedin.com/in/davidzcompasslosgatos"
+  },
+  {
+    "first_name": "Valerie",
+    "full_name": "Valerie Trang",
+    "broker": "Infiniti Real Estate",
+    "average_price": 24,
+    "total_sales": 229,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "10017 Alcosta Blvd, San Ramon, CA, 94583",
+      "3815 Carrera Ct, San Jose, CA, 95148"
+    ],
+    "linkedin": "https://www.linkedin.com/in/valerie-trang-131700"
+  },
+  {
+    "first_name": "Sandy",
+    "full_name": "Sandy Kay",
+    "broker": "Keller Williams Bay Area Estates",
+    "average_price": 7,
+    "total_sales": 117,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "4679 Persimmon Pl, San Jose, CA, 95129",
+      "5 Admiral Dr #F307, Emeryville, CA, 94608"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sandy-kay-5485162a"
+  },
+  {
+    "first_name": "Stephen",
+    "full_name": "Stephen Slater",
+    "broker": "Intero Real Estate Services",
+    "average_price": 15,
+    "total_sales": 254,
+    "yearly_sales": 2900000,
+    "last_two_listings": [
+      "14574 Nelson Way, San Jose, CA, 95124",
+      "17514 Phillips Ave, Los Gatos, CA, 95030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/stephenoslater"
+  },
+  {
+    "first_name": "Manu",
+    "full_name": "Manu Changotra",
+    "broker": "Coldwell Banker",
+    "average_price": 27,
+    "total_sales": 274,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "1963 Limewood Dr, San Jose, CA, 95132",
+      "730 Nutmeg Ave, Sunnyvale, CA, 94087"
+    ],
+    "linkedin": "https://www.linkedin.com/in/realtor-manu-changotra-3b5a6047"
+  },
+  {
+    "first_name": "Sharad",
+    "full_name": "Sharad Gupta",
+    "broker": "Your Home Sold Guaranteed Realty",
+    "average_price": 7,
+    "total_sales": 63,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "714 Wasatch Dr, Fremont, CA, 94536",
+      "4181 Horizon Ct, San Jose, CA, 95148"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sharadguptarealtor"
+  },
+  {
+    "first_name": "Thy",
+    "full_name": "Thy Nguyen",
+    "broker": "REMAX UP REAL ESTATE",
+    "average_price": 0,
+    "total_sales": 185,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "4258 Rivermark Pkwy #PY, Santa Clara, CA, 95054",
+      "292-296 Goodyear St, San Jose, CA, 95110"
+    ],
+    "linkedin": "https://www.linkedin.com/in/thynguyenrealtor"
+  },
+  {
+    "first_name": "Rodger",
+    "full_name": "Rodger Shaheen",
+    "broker": "Coldwell Banker",
+    "average_price": 11,
+    "total_sales": 142,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "1555 Lincoln Ave, Capitola, CA, 95010",
+      "4980 Garnet St, Capitola, CA, 95010"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Navneet",
+    "full_name": "Navneet Parmar",
+    "broker": "Real Estate Experts",
+    "average_price": 8,
+    "total_sales": 98,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "439 Camille Cir UNIT 16, San Jose, CA, 95134",
+      "5877 McGilvra Ct, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/navneet-parmar-13947a1"
+  },
+  {
+    "first_name": "Shawn",
+    "full_name": "Shawn Ansari",
+    "broker": "COMPASS",
+    "average_price": 4,
+    "total_sales": 77,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "22540 Stevens Creek Blvd, Cupertino, CA, 95014",
+      "184 S 19th St, San Jose, CA, 95116"
+    ],
+    "linkedin": "https://www.linkedin.com/in/shawnansari"
+  },
+  {
+    "first_name": "Kirsten",
+    "full_name": "Kirsten Reilly",
+    "broker": "Compass",
+    "average_price": 20,
+    "total_sales": 281,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "2888 Lantz Ave, San Jose, CA, 95124",
+      "2965 Quinto Way, San Jose, CA, 95124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kirstenreilly"
+  },
+  {
+    "first_name": "Liza",
+    "full_name": "Liza Carneghi",
+    "broker": "Compass",
+    "average_price": 10,
+    "total_sales": 98,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "1244 Husted Ave, San Jose, CA, 95125",
+      "2296 Monitor Ct, San Jose, CA, 95125"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lizacarneghi"
+  },
+  {
+    "first_name": "Tony",
+    "full_name": "Tony Sum",
+    "broker": "Upswing Real Estate",
+    "average_price": 15,
+    "total_sales": 226,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "88 E San Fernando St UNIT 301, San Jose, CA, 95113",
+      "88 Bush St UNIT 1154, San Jose, CA, 95126"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tksum"
+  },
+  {
+    "first_name": "Shannon",
+    "full_name": "Shannon Rose",
+    "broker": "The Rose Group",
+    "average_price": 10,
+    "total_sales": 388,
+    "yearly_sales": 1200000,
+    "last_two_listings": [
+      "130 E San Fernando St APT 514, San Jose, CA, 95112",
+      "1865 Las Ramblas Dr, Concord, CA, 94521"
+    ],
+    "linkedin": "https://www.linkedin.com/in/shannonroserealestate"
+  },
+  {
+    "first_name": "Sandy",
+    "full_name": "Sandy Albanese",
+    "broker": "Compass",
+    "average_price": 8,
+    "total_sales": 141,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "1122 Capri Dr, Campbell, CA, 95008",
+      "1506 Via Campo Aureo, San Jose, CA, 95120"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sandy-albanese-59039a12"
+  },
+  {
+    "first_name": "Abelardo",
+    "full_name": "Abelardo Arteaga",
+    "broker": "Abel Shiraki with Intero Real Estate",
+    "average_price": 0,
+    "total_sales": 275,
+    "yearly_sales": 0,
+    "last_two_listings": [
+      "214 Sirrah Way, Greenfield, CA, 93927",
+      "419 Hyland Dr #A, Salinas, CA, 93907"
+    ],
+    "linkedin": "https://www.linkedin.com/in/abel-arteaga-shiraki-73744a105"
+  },
+  {
+    "first_name": "Arlene",
+    "full_name": "Arlene Finney",
+    "broker": "Christie's International Real Estate Sereno",
+    "average_price": 10,
+    "total_sales": 276,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "12080 Brookglen Dr, Saratoga, CA, 95070",
+      "1581 Whiterock Cir, San Jose, CA, 95125"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Coco",
+    "full_name": "Coco Tan",
+    "broker": "Keller Williams",
+    "average_price": 0,
+    "total_sales": 177,
+    "yearly_sales": 0,
+    "last_two_listings": [
+      "22013 Baxley Ct, Cupertino, CA, 95014",
+      "12793 Homes Dr, Saratoga, CA, 95070"
+    ],
+    "linkedin": "https://www.linkedin.com/in/realtorcocotan"
+  },
+  {
+    "first_name": "Jamie",
+    "full_name": "Jamie Sweeney",
+    "broker": "Compass",
+    "average_price": 14,
+    "total_sales": 183,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "1716 Grizilo Dr, San Jose, CA, 95124",
+      "3683 Tumble Way, San Jose, CA, 95132"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jamie-sweeney-1a069a167"
+  },
+  {
+    "first_name": "David",
+    "full_name": "David Lewis",
+    "broker": "Compass",
+    "average_price": 8,
+    "total_sales": 364,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "127 Belvue Dr, Los Gatos, CA, 95032",
+      "3117 Woodcrest Dr, San Jose, CA, 95118"
+    ],
+    "linkedin": "https://www.linkedin.com/in/davidlewisgroup"
+  },
+  {
+    "first_name": "Mary",
+    "full_name": "Mary Ann Wallace",
+    "broker": "Compass ",
+    "average_price": 13,
+    "total_sales": 318,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "4944 Northlawn Ct, San Jose, CA, 95130",
+      "318 Copco Ln, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/maryannwallace"
+  },
+  {
+    "first_name": "The",
+    "full_name": "The Locals Team - Daunielle Doughty",
+    "broker": "Compass",
+    "average_price": 9,
+    "total_sales": 224,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "7689 Galloway Dr, San Jose, CA, 95135",
+      "2838 La Jolla Ave, San Jose, CA, 95124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/erichwieland"
+  },
+  {
+    "first_name": "Sarbari",
+    "full_name": "Sarbari Das",
+    "broker": "Intero Real Estate Services",
+    "average_price": 0,
+    "total_sales": 57,
+    "yearly_sales": 3200000,
+    "last_two_listings": [
+      "3008 Oliver Dr, San Jose, CA, 95135",
+      "5973 Golden Vista Dr, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sarbari-das-037a6a5b"
+  },
+  {
+    "first_name": "Blanca",
+    "full_name": "Blanca Medellin",
+    "broker": "EXP Realty",
+    "average_price": 12,
+    "total_sales": 90,
+    "yearly_sales": 852000,
+    "last_two_listings": [
+      "1881 Arroyo De Platina, San Jose, CA, 95116",
+      "5855 Silver Leaf Rd, San Jose, CA, 95138"
+    ],
+    "linkedin": "https://www.linkedin.com/in/blanca-medellin-b82a95a9"
+  },
+  {
+    "first_name": "Sergio",
+    "full_name": "Sergio Gutierrez and Ivonne Estrada",
+    "broker": "Compass",
+    "average_price": 7,
+    "total_sales": 223,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "202 Coy Dr APT 3, San Jose, CA, 95123",
+      "1183 3rd St, San Juan Bautista, CA, 95045"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ivonne-estrada"
+  },
+  {
+    "first_name": "Danny",
+    "full_name": "Danny Gould",
+    "broker": "eXp Realty of California",
+    "average_price": 0,
+    "total_sales": 133,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "1508 Hillsdale Ave, San Jose, CA, 95118",
+      "2539 Damuth St, Oakland, CA, 94602"
+    ],
+    "linkedin": "https://www.linkedin.com/in/dannygould"
+  },
+  {
+    "first_name": "Nomita",
+    "full_name": "Nomita and Jagi Shahani",
+    "broker": "Compass",
+    "average_price": 4,
+    "total_sales": 169,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "105 Millrich Dr, Los Gatos, CA, 95030",
+      "1786 Bowers Ave, Santa Clara, CA, 95051"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nomitashahani"
+  },
+  {
+    "first_name": "Sean",
+    "full_name": "Sean Chen",
+    "broker": "Intero",
+    "average_price": 111,
+    "total_sales": 604,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "2081 Rockhurst Ct, Santa Clara, CA, 95051",
+      "2965 Via Torino, Santa Clara, CA, 95051"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sean-chen-8bab344"
+  },
+  {
+    "first_name": "Ryan",
+    "full_name": "Ryan Nickell",
+    "broker": "R.O.I. Real Estate",
+    "average_price": 28,
+    "total_sales": 148,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "2330 De Varona Pl, Santa Clara, CA, 95050",
+      "2032 Lynwood Trl, San Jose, CA, 95128"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ryansnickel"
+  },
+  {
+    "first_name": "Erinna",
+    "full_name": "Erinna Tsai",
+    "broker": "MaxReal ",
+    "average_price": 0,
+    "total_sales": 130,
+    "yearly_sales": 1200000,
+    "last_two_listings": [
+      "574 W Hacienda Ave, Campbell, CA, 95008",
+      "1131 Reed Ave APT D, Sunnyvale, CA, 94086"
+    ],
+    "linkedin": "https://www.linkedin.com/in/erinna-tsai-0b0b6415"
+  },
+  {
+    "first_name": "Jackie",
+    "full_name": "Jackie Romant",
+    "broker": "Coldwell Banker",
+    "average_price": 1,
+    "total_sales": 97,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "20619 Longridge Ct, Groveland, CA, 95321",
+      "6168 Springer Way, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jackieromant"
+  },
+  {
+    "first_name": "Tom",
+    "full_name": "Tom Dang",
+    "broker": "Exp Realty",
+    "average_price": 9,
+    "total_sales": 94,
+    "yearly_sales": 872000,
+    "last_two_listings": [
+      "88 N Jackson Ave UNIT 118, San Jose, CA, 95116",
+      "1433 Amesbury Way, San Jose, CA, 95127"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tom-dang-san-jose-realtor"
+  },
+  {
+    "first_name": "Black",
+    "full_name": "Black Real Estate Team",
+    "broker": "Intero Real Estate Services Inc.",
+    "average_price": 4,
+    "total_sales": 173,
+    "yearly_sales": 1200000,
+    "last_two_listings": [
+      "475 Milan Dr UNIT 116, San Jose, CA, 95134",
+      "152 Bland Ave, Campbell, CA, 95008"
+    ],
+    "linkedin": "https://www.linkedin.com/in/georgeblackrealtor"
+  },
+  {
+    "first_name": "Alan",
+    "full_name": "Alan Wang",
+    "broker": "Alan Wang Realty Group",
+    "average_price": 37,
+    "total_sales": 540,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "205 Red Oak Dr W APT B, Sunnyvale, CA, 94086",
+      "22185 Old Santa Cruz Hwy, Los Gatos, CA, 95033"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alanlwang"
+  },
+  {
+    "first_name": "Erfan",
+    "full_name": "Erfan Modir",
+    "broker": "Intero Saratoga ",
+    "average_price": 37,
+    "total_sales": 193,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "4958 Red Creek Dr, San Jose, CA, 95136",
+      "668 Barcelona Loop, Milpitas, CA, 95035"
+    ],
+    "linkedin": "https://www.linkedin.com/in/erfan-modir-755840104"
+  },
+  {
+    "first_name": "Lana",
+    "full_name": "Lana - Real Estate Team",
+    "broker": "Century 21 Real Estate Alliance",
+    "average_price": 13,
+    "total_sales": 293,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "430 Shadowgraph Dr, San Jose, CA, 95110",
+      "4432 La Cresta Way APT 1, Stockton, CA, 95207"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lana-tyssen-75270322"
+  },
+  {
+    "first_name": "Mike",
+    "full_name": "Mike Magen",
+    "broker": "Probity Real Estate ",
+    "average_price": 12,
+    "total_sales": 147,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "2753 Buttonwood Ct, San Jose, CA, 95148",
+      "5930 Foligno Way, San Jose, CA, 95138"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mike-magen"
+  },
+  {
+    "first_name": "Thomas",
+    "full_name": "Thomas Feng",
+    "broker": "REAL",
+    "average_price": 3,
+    "total_sales": 84,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "190 Caterina Way, Hayward, CA, 94545",
+      "750 Delmas Ave, San Jose, CA, 95125"
+    ],
+    "linkedin": "https://www.linkedin.com/in/thomasfeng"
+  },
+  {
+    "first_name": "Zdenka",
+    "full_name": "Zdenka \"Zee\" Mahan",
+    "broker": "Intero Real Estate Services Berkshire Hathaway Affiliate",
+    "average_price": 1,
+    "total_sales": 232,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "350 N 2nd St APT 343, San Jose, CA, 95112",
+      "361 N Leigh Ave, Campbell, CA, 95008"
+    ],
+    "linkedin": "https://www.linkedin.com/in/zdenkazeemahan"
+  },
+  {
+    "first_name": "Isabella",
+    "full_name": "Isabella Sun",
+    "broker": "Compass",
+    "average_price": 19,
+    "total_sales": 226,
+    "yearly_sales": 2100000,
+    "last_two_listings": [
+      "3710 Pyramid Way, Mountain View, CA, 94043",
+      "1340 Navarro Dr, Sunnyvale, CA, 94087"
+    ],
+    "linkedin": "https://www.linkedin.com/in/isabella-sun"
+  },
+  {
+    "first_name": "Keith",
+    "full_name": "Keith Vong",
+    "broker": "Intero Real Estate",
+    "average_price": 19,
+    "total_sales": 311,
+    "yearly_sales": 943000,
+    "last_two_listings": [
+      "22 Kenbrook Cir, San Jose, CA, 95111",
+      "3014 Independence Ave, Marina, CA, 93933"
+    ],
+    "linkedin": "https://www.linkedin.com/in/keith-vong-5a392ab2"
+  },
+  {
+    "first_name": "Sundar",
+    "full_name": "Sundar K Gounder",
+    "broker": "Keller Williams Silicon City",
+    "average_price": 19,
+    "total_sales": 138,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "35453 Monterra Cir, Union City, CA, 94587",
+      "40124 Santa Teresa Cmn, Fremont, CA, 94539"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sgounder"
+  },
+  {
+    "first_name": "Amy",
+    "full_name": "Amy McCafferty",
+    "broker": "Golden Gate Sotheby's International Realty",
+    "average_price": 29,
+    "total_sales": 432,
+    "yearly_sales": 3300000,
+    "last_two_listings": [
+      "224 Bacigalupi Dr, Los Gatos, CA, 95032",
+      "15400 Winchester Blvd APT 13, Los Gatos, CA, 95030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/amy-mccafferty-realtor"
+  },
+  {
+    "first_name": "Dan",
+    "full_name": "Dan Do",
+    "broker": "COMPASS",
+    "average_price": 13,
+    "total_sales": 94,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "2393 Plateau Dr, San Jose, CA, 95125",
+      "189 Esfahan Dr, San Jose, CA, 95111"
+    ],
+    "linkedin": "https://www.linkedin.com/in/dan-do-81169527"
+  },
+  {
+    "first_name": "Jide",
+    "full_name": "Jide Ogunbiyi",
+    "broker": "Coldwell Banker Realty",
+    "average_price": 34,
+    "total_sales": 130,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "458 Bancroft St, Santa Clara, CA, 95051",
+      "573 Giuffrida Ave APT B, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jideogunbiyi"
+  },
+  {
+    "first_name": "Jennifer",
+    "full_name": "Jennifer Yi",
+    "broker": "Red Door Real Estate / Keller William Thrive",
+    "average_price": 17,
+    "total_sales": 165,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "5679 Comanche Dr, San Jose, CA, 95123",
+      "65 Gladys Ave, Mountain View, CA, 94043"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jenniferyihomes"
+  },
+  {
+    "first_name": "Sonny",
+    "full_name": "Sonny Pham",
+    "broker": "Your Home Sold Guaranteed Realty",
+    "average_price": 11,
+    "total_sales": 153,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "3731 Rosemar Ave, San Jose, CA, 95127",
+      "3537 Druffel Pl UNIT 3, Santa Clara, CA, 95051"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sonny-pham-3743512a"
+  },
+  {
+    "first_name": "Alex",
+    "full_name": "Alex Bouja",
+    "broker": "Golden Gate Sotheby's International Realty",
+    "average_price": 18,
+    "total_sales": 203,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "707 W Capistrano Way, San Mateo, CA, 94402",
+      "19517 Mockingbird Hill Ln, San Jose, CA, 95120"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alexbouja"
+  },
+  {
+    "first_name": "Jolin",
+    "full_name": "Jolin Zhu",
+    "broker": "MaxReal",
+    "average_price": 10,
+    "total_sales": 151,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "3531 Earl Dr, Santa Clara, CA, 95051",
+      "2283 Shelley Ave, San Jose, CA, 95124"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Heena",
+    "full_name": "Heena Joshi",
+    "broker": "COMPASS",
+    "average_price": 34,
+    "total_sales": 175,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "5669 Coffeeberry Rd, Newark, CA, 94560",
+      "933 Courtland Ct, Milpitas, CA, 95035"
+    ],
+    "linkedin": "https://www.linkedin.com/in/realtorheenajoshi"
+  },
+  {
+    "first_name": "Eddie",
+    "full_name": "Eddie Oberoi MBA",
+    "broker": "Intero Real Estate",
+    "average_price": 46,
+    "total_sales": 497,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "4949 Portmarnoch Ct, San Jose, CA, 95138",
+      "635 Tabor Dr, Scotts Valley, CA, 95066"
+    ],
+    "linkedin": "https://www.linkedin.com/in/eddie-oberoi-24364035"
+  },
+  {
+    "first_name": "Marc",
+    "full_name": "Marc Blaauw",
+    "broker": "Compass",
+    "average_price": 3,
+    "total_sales": 132,
+    "yearly_sales": 2600000,
+    "last_two_listings": [
+      "365 Martens Ave, Mountain View, CA, 94040",
+      "2064 Sheraton Dr, Santa Clara, CA, 95050"
+    ],
+    "linkedin": "https://www.linkedin.com/in/marc-blaauw-5071289"
+  },
+  {
+    "first_name": "Flyhomes",
+    "full_name": "Flyhomes Inc.",
+    "broker": "Flyhomes",
+    "average_price": 162,
+    "total_sales": 3523,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "915 N 39th Street, Seattle, WA, 98103",
+      "3868 Jefferson Ave, Redwood City, CA, 94062"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Doorlight",
+    "full_name": "Doorlight Inc",
+    "broker": "Doorlight Inc",
+    "average_price": 45,
+    "total_sales": 135,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "725 Mariposa Ave APT 207, Mountain View, CA, 94041",
+      "5984 Garces Ave, San Jose, CA, 95123"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nick-roe-real"
+  },
+  {
+    "first_name": "Steve",
+    "full_name": "Steve Chin",
+    "broker": "Primeq Realty",
+    "average_price": 2,
+    "total_sales": 146,
+    "yearly_sales": 1300000,
+    "last_two_listings": [
+      "1149 Summertree Ct, San Jose, CA, 95132",
+      "6927 Corte Barcelona, Pleasanton, CA, 94566"
+    ],
+    "linkedin": "https://www.linkedin.com/in/stevechinre"
+  },
+  {
+    "first_name": "Veeral",
+    "full_name": "Veeral Shah",
+    "broker": "Compass",
+    "average_price": 19,
+    "total_sales": 142,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "1671 Elwood Dr, Los Gatos, CA, 95032",
+      "2729 Lone Bluff Way, San Jose, CA, 95111"
+    ],
+    "linkedin": "https://www.linkedin.com/in/shahveeral"
+  },
+  {
+    "first_name": "Lila",
+    "full_name": "Lila Kazemi",
+    "broker": "Compass",
+    "average_price": 24,
+    "total_sales": 253,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "531 San Lorenzo Ter UNIT 6, Sunnyvale, CA, 94085",
+      "2527 Alto Ct, San Jose, CA, 95148"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lila-kazemi"
+  },
+  {
+    "first_name": "Mitch",
+    "full_name": "Mitch del Rosario",
+    "broker": "Kollab Real Estate",
+    "average_price": 14,
+    "total_sales": 92,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "3644 Warner Dr, San Jose, CA, 95127",
+      "110 Wendy Ln, El Sobrante, CA, 94803"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mitchdrealty"
+  },
+  {
+    "first_name": "Terese",
+    "full_name": "Terese Ferrara",
+    "broker": "KW Bay Area Estates",
+    "average_price": 9,
+    "total_sales": 69,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "491 Villa St, Mountain View, CA, 94041",
+      "5 Hill Ave, San Carlos, CA, 94070"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tereseferrara"
+  },
+  {
+    "first_name": "PARTNER",
+    "full_name": "PARTNER Real Estate NorCal",
+    "broker": "PARTNER Real Estate",
+    "average_price": 15,
+    "total_sales": 54,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "3731 Rosemar Ave, San Jose, CA, 95127",
+      "3537 Druffel Pl UNIT 3, Santa Clara, CA, 95051"
+    ],
+    "linkedin": "https://www.linkedin.com/in/stacie-mclaughlin-616a6240"
+  },
+  {
+    "first_name": "Lynne",
+    "full_name": "Lynne Tran",
+    "broker": "Intero Real Estate Services",
+    "average_price": 5,
+    "total_sales": 237,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "15543 Longwood Dr, Los Gatos, CA, 95032",
+      "6610 Tecate Ln, Gilroy, CA, 95020"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lynne-tran-5912b81a"
+  },
+  {
+    "first_name": "Century",
+    "full_name": "Century 21 Alpha",
+    "broker": "Century 21 Alpha",
+    "average_price": 0,
+    "total_sales": 163,
+    "yearly_sales": 1900000,
+    "last_two_listings": [
+      "5232 Harwood Rd, San Jose, CA, 95124",
+      "882 Poplar Ave, Sunnyvale, CA, 94086"
+    ],
+    "linkedin": "https://www.linkedin.com/in/rickfunk"
+  },
+  {
+    "first_name": "David",
+    "full_name": "David Guardanapo",
+    "broker": "Intero Real Estate Services ",
+    "average_price": 29,
+    "total_sales": 106,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "700 Chiquita Ave APT 5, Mountain View, CA, 94041",
+      "60 Sheffield Ct, Mountain View, CA, 94040"
+    ],
+    "linkedin": "https://www.linkedin.com/in/davidguardanapo"
+  },
+  {
+    "first_name": "Lex",
+    "full_name": "Lex Orosco",
+    "broker": "Lex Orosco",
+    "average_price": 56,
+    "total_sales": 316,
+    "yearly_sales": 1500000,
+    "last_two_listings": [
+      "2060 Lee Way, Milpitas, CA, 95035",
+      "1785 Colony Way, Gilroy, CA, 95020"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lexorosco"
+  },
+  {
+    "first_name": "Quader",
+    "full_name": "Quader Azim",
+    "broker": "Re/Max Synergy Group",
+    "average_price": 11,
+    "total_sales": 133,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "2705 Sierra Rd, San Jose, CA, 95132",
+      "713 Garcia Ave, Roseville, CA, 95678"
+    ],
+    "linkedin": "https://www.linkedin.com/in/quader-azim-14a83642"
+  },
+  {
+    "first_name": "Nakul",
+    "full_name": "Nakul Kapoor",
+    "broker": "Intero Real Estate Services",
+    "average_price": 15,
+    "total_sales": 221,
+    "yearly_sales": 2000000,
+    "last_two_listings": [
+      "4281 Windsor Park Dr, San Jose, CA, 95136",
+      "5485 Lauren Dr, San Jose, CA, 95124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nakulkapoor"
+  },
+  {
+    "first_name": "CJ",
+    "full_name": "CJ Brasiel",
+    "broker": "Veridian Realty",
+    "average_price": 5,
+    "total_sales": 144,
+    "yearly_sales": 1400000,
+    "last_two_listings": [
+      "1136 Buchanan Dr, Santa Clara, CA, 95051",
+      "636 N 20th St, San Jose, CA, 95112"
+    ],
+    "linkedin": "https://www.linkedin.com/in/cjbrasiel"
+  },
+  {
+    "first_name": "Trieu",
+    "full_name": "Trieu Tran",
+    "broker": "Clarus Properties, Inc.",
+    "average_price": 0,
+    "total_sales": 66,
+    "yearly_sales": 0,
+    "last_two_listings": [
+      "5450 Monterey Rd #15, San Jose, CA, 95111",
+      "1801 Lavonne Ave, San Jose, CA, 95116"
+    ],
+    "linkedin": "https://www.linkedin.com/in/trieutranrealtor"
+  },
+  {
+    "first_name": "Catalina",
+    "full_name": "Catalina Collins, Esq.",
+    "broker": "Catalina Collins",
+    "average_price": 0,
+    "total_sales": 127,
+    "yearly_sales": 800000,
+    "last_two_listings": [
+      "1150 Brace Ave, San Jose, CA, 95125",
+      "1320 E Campbell Ave, Campbell, CA, 95008"
+    ],
+    "linkedin": "https://www.linkedin.com/in/catalinacollins"
+  },
+  {
+    "first_name": "Alana",
+    "full_name": "Alana Lam Real Estate Group",
+    "broker": "Alana Lam Real Estate Group",
+    "average_price": 19,
+    "total_sales": 375,
+    "yearly_sales": 1600000,
+    "last_two_listings": [
+      "855 Masson Ave, San Bruno, CA, 94066",
+      "366 Penn Way, Los Gatos, CA, 95032"
+    ],
+    "linkedin": null
+  },
+  {
+    "first_name": "Troy",
+    "full_name": "Troy Thinh Khuu",
+    "broker": "Intero Real Estate Services",
+    "average_price": 16,
+    "total_sales": 146,
+    "yearly_sales": 997000,
+    "last_two_listings": [
+      "88 E San Fernando St UNIT 1506, San Jose, CA, 95113",
+      "22 Rockway Dr, San Jose, CA, 95127"
+    ],
+    "linkedin": "https://www.linkedin.com/in/troythinhkhuu"
+  },
+  {
+    "first_name": "Irene",
+    "full_name": "Irene Borz",
+    "broker": "1 TEAM REALTORS",
+    "average_price": 1,
+    "total_sales": 366,
+    "yearly_sales": 1000000,
+    "last_two_listings": [
+      "551 Groth Pl, San Jose, CA, 95111",
+      "2955 Sunnybank Ln, Hayward, CA, 94541"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bestpriceforyourhome"
+  },
+  {
+    "first_name": "Chris",
+    "full_name": "Chris & Francine Simone",
+    "broker": "The Simone Team with Allison James Estates and Homes",
+    "average_price": 12,
+    "total_sales": 313,
+    "yearly_sales": 1800000,
+    "last_two_listings": [
+      "947 N Central Ave, Campbell, CA, 95008",
+      "2703 New Jersey Ave, San Jose, CA, 95124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/simone-eurich"
+  },
+  {
+    "first_name": "Sophie",
+    "full_name": "Sophie Tsang MBA",
+    "broker": "Compass",
+    "average_price": 12,
+    "total_sales": 391,
+    "yearly_sales": 1700000,
+    "last_two_listings": [
+      "25111 Vista Greens Ct, Hayward, CA, 94541",
+      "335 Middlefield Rd, Palo Alto, CA, 94301"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sophietsang"
+  },
+  {
+    "first_name": "Kollab",
+    "full_name": "Kollab Real Estate",
+    "broker": "Kollab Real Estate",
+    "average_price": 79,
+    "total_sales": 161,
+    "yearly_sales": 1100000,
+    "last_two_listings": [
+      "5543 Eagles Ln APT 2, San Jose, CA, 95123",
+      "800 La Baig Dr, Hollister, CA, 95023"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mitchdrealty"
+  }
+]
