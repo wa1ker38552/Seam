@@ -1,7 +1,8 @@
 from groq import Groq
 import json
+import os
 
-client = Groq(api_key='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')
+client = Groq(api_key=os.environ['API_KEY'])
 
 def condense_broker(broker):
     chat_completion = client.chat.completions.create(
