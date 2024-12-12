@@ -1,7 +1,7 @@
 import csv
 import json
 
-with open('zillow_agent_data.json', 'r') as json_file, open('data.csv', 'w', newline='') as csv_file:
+with open('zillow_agent_data.json', 'r') as json_file, open('fairfax.csv', 'w', newline='') as csv_file:
     data = json.loads(json_file.read())
     parsed = []
 

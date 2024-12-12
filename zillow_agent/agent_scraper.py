@@ -35,10 +35,9 @@ def parse_number(n):
 def scrape_agent_page(url):
     r = requests.get(url, headers={
         'Content-Type': 'application/json',
-        'Referrer': 'http://zillow.com',
+        'Referrer': 'https://zillow.com',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
     })
-
     soup = BeautifulSoup(r.text, 'html.parser')
     name = soup.find('h1', attrs={'class': 'Text-c11n-8-107-0__sc-aiai24-0 StyledHeading-c11n-8-107-0__sc-s7fcif-0 gmdEgd'}).get_text()
     broker = soup.find('span', attrs={'class': 'Text-c11n-8-107-0__sc-aiai24-0 bmGggf'}).get_text()
@@ -50,7 +49,7 @@ def scrape_agent_page(url):
 
     # lucky me the address is the alt tag for the images :)
     images = soup.find_all('img', attrs={'class': 'Image-c11n-8-107-0__sc-1rtmhsc-0'})
-    listings = [i['alt'] for i in images][1:3] # only take first 2 (first one is empty always)
+    listings = [i['alt'] for i in images if i['alt']][:2]
     return {
         'first_name': name.split()[0],
         'full_name': name,
@@ -62,13 +61,13 @@ def scrape_agent_page(url):
     }
 
 
-# scrape_agents('san jose, ca')
+# scrape_agents('Fairfax, VA')
 
 # logic to go through agent list and scrape individual agent pages
 with open('zillow_agent_links.json', 'r') as file:
     agent_links = json.loads(file.read())
 
-offset = 75
+offset = 0
 agent_data = json.loads(open('zillow_agent_data.json', 'r').read())
 for i, item in enumerate(agent_links[offset:]):
     print(f'{offset+i}/{len(agent_links)}', item)

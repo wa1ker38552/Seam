@@ -92,4 +92,4 @@ def get_agent_data(zpid):
 
 geolocator = Nominatim(user_agent='zillow_scraper')
 
-# scrape_listings_by_query('San Jose, CA')
+# scrape_listings_by_query('Orange County, CA')

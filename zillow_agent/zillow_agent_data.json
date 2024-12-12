@@ -1,1892 +1,2102 @@
 [
   {
-    "first_name": "Brett",
-    "full_name": "Brett Jennings",
-    "broker": "Real Estate Experts",
-    "average_price": 274,
-    "total_sales": 2558,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "20238 Northwest Sq, Cupertino, CA, 95014",
-      "124 Treetop Dr, Santa Cruz, CA, 95060"
-    ],
-    "linkedin": "https://www.linkedin.com/in/brettjennings",
-    "broker_simplified": "Real Estate Experts"
-  },
-  {
-    "first_name": "Julie",
-    "full_name": "Julie Wyss",
-    "broker": "Keller Williams Bay Area Estates",
-    "average_price": 39,
-    "total_sales": 745,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "1541 Casa De Ponselle, San Jose, CA, 95118",
-      "2342 Richland Ave, San Jose, CA, 95125"
-    ],
-    "linkedin": "https://www.linkedin.com/in/julielarsenwyss",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Enrique",
-    "full_name": "Enrique Medellin",
-    "broker": "PRG Real Estate brokered by EXP",
-    "average_price": 45,
-    "total_sales": 601,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "774 Wisteria Dr, Gilroy, CA, 95020",
-      "1620 Cushman St, Hollister, CA, 95023"
-    ],
-    "linkedin": "https://www.linkedin.com/in/adrian-martinez-4b005a259",
-    "broker_simplified": "EXP"
-  },
-  {
-    "first_name": "Michael",
-    "full_name": "Michael Ramos",
-    "broker": "Momentum Realty",
-    "average_price": 50,
-    "total_sales": 828,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "205 Red Oak Dr W APT B, Sunnyvale, CA, 94086",
-      "935 Old County Rd UNIT 23, Belmont, CA, 94002"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mikeramosrealtor",
-    "broker_simplified": "Momentum"
-  },
-  {
-    "first_name": "Amar",
-    "full_name": "Amar REALTOR\u00ae Bay Area Top Best REALTOR\u00ae",
-    "broker": "Amar REALTOR\u00ae",
-    "average_price": 44,
-    "total_sales": 978,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "4136 San Bernardino Way, San Jose, CA, 95111",
-      "7577 Birkdale Dr, Newark, CA, 94560"
-    ],
-    "linkedin": "https://www.linkedin.com/in/amarrealtor",
-    "broker_simplified": "Amar Real Estate"
-  },
-  {
-    "first_name": "Boyenga",
-    "full_name": "Boyenga Team",
-    "broker": "BOYENGA TEAM  +  Compass",
-    "average_price": 59,
-    "total_sales": 1708,
-    "yearly_sales": 2000000,
-    "last_two_listings": [
-      "1477 Cherry Garden Ln, San Jose, CA, 95125",
-      "838 Devonshire Way, Sunnyvale, CA, 94087"
-    ],
-    "linkedin": "https://www.linkedin.com/in/eboyenga",
-    "broker_simplified": "Boyenga Compass"
-  },
-  {
-    "first_name": "Mark",
-    "full_name": "Mark DeTar",
-    "broker": "Compass",
-    "average_price": 13,
-    "total_sales": 367,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "15132 Penitencia Creek Rd, San Jose, CA, 95132",
-      "977 Feller Ave, San Jose, CA, 95127"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mark-detar-394b4816",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Andy",
-    "full_name": "Andy Tse",
-    "broker": "Tse Group",
-    "average_price": 223,
-    "total_sales": 1874,
-    "yearly_sales": 2400000,
-    "last_two_listings": [
-      "4958 Red Creek Dr, San Jose, CA, 95136",
-      "18941 Cyril Pl, Saratoga, CA, 95070"
-    ],
-    "linkedin": "https://www.linkedin.com/in/tseandy",
-    "broker_simplified": "TSE Group"
-  },
-  {
-    "first_name": "Cathy",
-    "full_name": "Cathy Jackson",
-    "broker": "Intero Real Estate Services",
-    "average_price": 9,
-    "total_sales": 477,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "364 Blackwell Dr, Los Gatos, CA, 95032",
-      "2059 Folle Blanche Dr, San Jose, CA, 95135"
-    ],
-    "linkedin": "https://www.linkedin.com/in/cathymjackson",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Mike",
-    "full_name": "Mike Bui",
-    "broker": "EQ1 Real Estate",
-    "average_price": 102,
-    "total_sales": 1220,
-    "yearly_sales": 1200000,
-    "last_two_listings": [
-      "3935 Wellington Sq, San Jose, CA, 95136",
-      "38 N Almaden Blvd UNIT 1700, San Jose, CA, 95110"
-    ],
-    "linkedin": "https://www.linkedin.com/in/whoismikebui",
-    "broker_simplified": "EQ1"
-  },
-  {
-    "first_name": "Oldham",
-    "full_name": "Oldham Group Compass",
-    "broker": "Compass",
-    "average_price": 153,
-    "total_sales": 877,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "41 El Paseo St #41, Campbell, CA, 95008",
-      "7601 Hanna St, Gilroy, CA, 95020"
-    ],
-    "linkedin": "https://www.linkedin.com/in/jennifer-oldham-realtor-4b01b51b",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Samit",
-    "full_name": "Samit Shah",
-    "broker": "Compass",
-    "average_price": 74,
-    "total_sales": 509,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "3015 Remington Way, San Jose, CA, 95148",
-      "3044 Summerhill Ct, San Jose, CA, 95148"
-    ],
-    "linkedin": "https://www.linkedin.com/in/samit-shah-496041254",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Yasir",
-    "full_name": "Yasir Aladdin",
-    "broker": "Compass",
-    "average_price": 52,
-    "total_sales": 419,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "2627 Fordham St, East Palo Alto, CA, 94303",
-      "1375 Dolores St, San Francisco, CA, 94110"
-    ],
-    "linkedin": "https://www.linkedin.com/in/yasir-aladdin-40215659",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Zaid",
-    "full_name": "Zaid Hanna",
-    "broker": "Real Estate 38",
-    "average_price": 63,
-    "total_sales": 1209,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "5680 Silver Leaf Rd, San Jose, CA, 95138",
-      "134 Pine Wood Ln, Los Gatos, CA, 95032"
-    ],
-    "linkedin": "https://www.linkedin.com/in/zaid-hanna",
-    "broker_simplified": "Real Estate 38"
-  },
-  {
-    "first_name": "Sophie",
-    "full_name": "Sophie Shen",
-    "broker": "KW Thrive",
-    "average_price": 60,
-    "total_sales": 620,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "2553 Northwood Dr, San Jose, CA, 95132",
-      "2478 Autumnvale Ave, San Jose, CA, 95131"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sophie-shen-cfa-sophieshencfa-gmail-com-49a7015",
-    "broker_simplified": "KW Thrive"
-  },
-  {
-    "first_name": "Sereno",
-    "full_name": "Sereno Group Service Team",
-    "broker": "Sereno Group",
-    "average_price": 16,
-    "total_sales": 717,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "5594 Bobbywood Ave, San Jose, CA, 95124",
-      "1555 Wessex Ave, Los Altos, CA, 94024"
-    ],
-    "linkedin": "https://www.linkedin.com/in/annvurealestate",
-    "broker_simplified": "Sereno Group"
-  },
-  {
-    "first_name": "Sandy",
-    "full_name": "Sandy Jamison",
-    "broker": "Tuscana Properties",
-    "average_price": 68,
-    "total_sales": 1096,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "249 Packing Pl, San Jose, CA, 95116",
-      "3599 Peak Dr, San Jose, CA, 95127"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sandy-jamison-1559a0",
-    "broker_simplified": "Tuscana"
-  },
-  {
-    "first_name": "Keith",
-    "full_name": "Keith and Kris Walker",
-    "broker": "Intero Real Estate",
-    "average_price": 27,
-    "total_sales": 721,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "1738 Hillmont Ave, San Jose, CA, 95127",
-      "2557 McLaren Ln, San Ramon, CA, 94582"
-    ],
-    "linkedin": "https://www.linkedin.com/in/kris-a-walker-111373128",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Lisa",
-    "full_name": "Lisa Thompson",
-    "broker": "Intero Real Estate Services",
-    "average_price": 23,
-    "total_sales": 243,
-    "yearly_sales": 2100000,
-    "last_two_listings": [
-      "1355 Valota Rd, Redwood City, CA, 94061",
-      "215 Jo Dr, Los Gatos, CA, 95032"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lisa-thompson-63551b85",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "David",
-    "full_name": "David Long",
-    "broker": "Sereno Group ",
-    "average_price": 7,
-    "total_sales": 280,
-    "yearly_sales": 1800000,
-    "last_two_listings": [
-      "1695 Cherry Ave, San Jose, CA, 95125",
-      "1871 Briarwood Dr, Santa Clara, CA, 95051"
-    ],
-    "linkedin": "https://www.linkedin.com/in/djlonggroup",
-    "broker_simplified": "Sereno"
-  },
-  {
-    "first_name": "Rabia",
-    "full_name": "Rabia Alizai",
-    "broker": "The Rabia Team",
-    "average_price": 51,
-    "total_sales": 471,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "1098 Lund Ter, Sunnyvale, CA, 94089",
-      "457 Tyndall St APT 2, Los Altos, CA, 94022"
-    ],
-    "linkedin": "https://www.linkedin.com/in/rabiaalizai",
-    "broker_simplified": "Re/Max"
-  },
-  {
-    "first_name": "Doug",
-    "full_name": "Doug Goss",
-    "broker": "Keller Williams Bay Area Estates",
-    "average_price": 26,
-    "total_sales": 1204,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "491 Villa St, Mountain View, CA, 94041",
-      "2929 Crocker Ct, Aptos, CA, 95003"
-    ],
-    "linkedin": "https://www.linkedin.com/in/douggoss",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Angelina",
-    "full_name": "Angelina Doan",
-    "broker": "Patrick / Angelina Doan & Associates",
-    "average_price": 7,
-    "total_sales": 839,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "247 N Capitol Ave UNIT 224, San Jose, CA, 95127",
-      "744 Overture Ct, San Jose, CA, 95134"
-    ],
-    "linkedin": "https://www.linkedin.com/in/patrick-p-doan-76496b31",
-    "broker_simplified": "Doan"
-  },
-  {
-    "first_name": "Mary",
-    "full_name": "Mary Clark",
-    "broker": "Intero Real Estate Services",
-    "average_price": 34,
-    "total_sales": 277,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "23007 Cricket Hill Rd, Cupertino, CA, 95014",
-      "1548 Rosecrest Ter, San Jose, CA, 95126"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mary-clark-5a194710a",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Russ",
-    "full_name": "Russ Sadykhov",
-    "broker": "Coldwell Banker",
-    "average_price": 11,
-    "total_sales": 306,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "4166 Thain Way, Palo Alto, CA, 94306",
-      "17514 Phillips Ave, Los Gatos, CA, 95030"
-    ],
-    "linkedin": "https://www.linkedin.com/in/rustamsadykhov",
-    "broker_simplified": "Coldwell"
-  },
-  {
-    "first_name": "Matt",
-    "full_name": "Matt Tenczar",
-    "broker": "COMPASS",
-    "average_price": 16,
-    "total_sales": 266,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "6946 Maiden Ln, San Jose, CA, 95120",
-      "5245 Rio Lobo Dr, San Jose, CA, 95136"
-    ],
-    "linkedin": "https://www.linkedin.com/in/matt-tenczar-6164b416",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "VKG",
-    "full_name": "VKG Real Estate Group",
-    "broker": "Keller Williams Bay Area Estates",
-    "average_price": 90,
-    "total_sales": 1201,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "2250 Monroe St APT 394, Santa Clara, CA, 95050",
-      "10462 Plum Tree Ln, Cupertino, CA, 95014"
-    ],
-    "linkedin": "https://www.linkedin.com/in/davidgiambruno",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Suzanne",
-    "full_name": "Suzanne Hunter",
-    "broker": "Intero Real Estate",
-    "average_price": 8,
-    "total_sales": 166,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "3791 Jarvis Ave, San Jose, CA, 95118",
-      "6184 Castillon Dr, Newark, CA, 94560"
-    ],
-    "linkedin": "https://www.linkedin.com/in/suzanne-hunter-20627b16",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Brad",
-    "full_name": "Brad Gill",
-    "broker": "NextHome Lifestyles",
-    "average_price": 36,
-    "total_sales": 499,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "2892 Newark Way, San Jose, CA, 95124",
-      "373 Rosewood Ave, San Jose, CA, 95117"
-    ],
-    "linkedin": "https://www.linkedin.com/in/bradgill",
-    "broker_simplified": "NextHome"
-  },
-  {
-    "first_name": "Thao",
-    "full_name": "Thao Dang and Brian Ng Real Estate Group",
-    "broker": "Block Change Real Estate",
-    "average_price": 47,
-    "total_sales": 904,
-    "yearly_sales": 2300000,
-    "last_two_listings": [
-      "5437 Silver Vista Way, San Jose, CA, 95138",
-      "17 Hillcrest Rd, San Carlos, CA, 94070"
-    ],
-    "linkedin": "https://www.linkedin.com/in/thaodangblockchangere",
-    "broker_simplified": "Block Change"
-  },
-  {
-    "first_name": "Eric",
-    "full_name": "Eric Woodward",
-    "broker": "Upswing Real Estate",
-    "average_price": 34,
-    "total_sales": 549,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "851 W San Fernando St, San Jose, CA, 95126",
-      "88 E San Fernando St UNIT 301, San Jose, CA, 95113"
-    ],
-    "linkedin": "https://www.linkedin.com/in/eric-woodward-real-estate",
-    "broker_simplified": "Upswing"
-  },
-  {
-    "first_name": "Scott",
-    "full_name": "Scott Grant",
-    "broker": "Intero Real Estate Services, Inc.",
-    "average_price": 5,
-    "total_sales": 302,
-    "yearly_sales": 2300000,
-    "last_two_listings": [
-      "5222 Hawkstone Way, San Jose, CA, 95138",
-      "5020 Birkdale Way, San Jose, CA, 95138"
-    ],
-    "linkedin": "https://www.linkedin.com/in/scott-grant-a981029",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Ed",
-    "full_name": "Ed Karzai",
-    "broker": "Keller Williams Realty - Silicon Valley",
-    "average_price": 7,
-    "total_sales": 100,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "1482 Redmond Ave, San Jose, CA, 95120",
-      "668-670 Chemeketa Dr, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/edkarzai",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Gary",
-    "full_name": "Gary Shapiro",
-    "broker": "Keller Williams Bay Area Estates",
-    "average_price": 25,
-    "total_sales": 266,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "7229 Sleepy Creek Dr, San Jose, CA, 95120",
-      "3403 Prince Of Wales Ln, San Jose, CA, 95132"
-    ],
-    "linkedin": "https://www.linkedin.com/in/gary-shapiro-8a544ab",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Tony",
-    "full_name": "Tony Fery",
-    "broker": "Real Estate Experts",
-    "average_price": 8,
-    "total_sales": 95,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "1256 Lick Ave, San Jose, CA, 95110",
-      "1127 Fairview Ave, San Jose, CA, 95125"
-    ],
-    "linkedin": "https://www.linkedin.com/in/tonyfery",
-    "broker_simplified": "Real Estate Experts"
-  },
-  {
-    "first_name": "Joe",
-    "full_name": "Joe Ventura",
-    "broker": "Corcoran Icon Properties",
-    "average_price": 15,
-    "total_sales": 188,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "2525 Ontario Dr, San Jose, CA, 95124",
-      "185 Union Ave APT 76, Campbell, CA, 95008"
-    ],
-    "linkedin": "https://www.linkedin.com/in/joe-ventura-realtor",
-    "broker_simplified": "Corcoran"
-  },
-  {
-    "first_name": "Thuy",
-    "full_name": "Thuy Do",
-    "broker": " Intero, A Berkshire Hathaway Affilate",
-    "average_price": 12,
-    "total_sales": 270,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "35 Shenado Pl, San Jose, CA, 95136",
-      "16720 Cerro Vista Dr, Morgan Hill, CA, 95037"
-    ],
-    "linkedin": "https://www.linkedin.com/in/thuydorealtor",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Lily",
-    "full_name": "Lily Chow",
-    "broker": "Infinite Realty & Investments",
-    "average_price": 13,
-    "total_sales": 223,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "195 Del Monte Ln, Morgan Hill, CA, 95037",
-      "4654 Paloma Ave, San Jose, CA, 95111"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lily-chow-26657415",
-    "broker_simplified": "Infinite Realty"
-  },
-  {
-    "first_name": "Mei",
-    "full_name": "Mei Ling",
-    "broker": "8 Blocks Real Estate",
-    "average_price": 122,
-    "total_sales": 843,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "4189 Stewart Ln, Santa Clara, CA, 95054",
-      "22061 Lindy Ln, Cupertino, CA, 95014"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mei-ling-8blocks",
-    "broker_simplified": "8 Blocks"
-  },
-  {
-    "first_name": "Tony",
-    "full_name": "Tony Ngai",
-    "broker": "TN Realty Inc",
-    "average_price": 10,
-    "total_sales": 125,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "2504 Copa Del Oro Dr, Union City, CA, 94587",
-      "37148 Sand Bar Pl, Newark, CA, 94560"
-    ],
-    "linkedin": "https://www.linkedin.com/in/soldbytonyngai",
-    "broker_simplified": "TN Realty"
-  },
-  {
-    "first_name": "Kamala",
-    "full_name": "Kamala Venkatesan",
-    "broker": "MREMC Thrive, Inc.",
-    "average_price": 12,
-    "total_sales": 185,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "37409 Ortega Cmn, Fremont, CA, 94536",
-      "2026 Nunes Dr, San Jose, CA, 95131"
-    ],
-    "linkedin": null,
-    "broker_simplified": "MREMC"
-  },
-  {
-    "first_name": "Arpad",
-    "full_name": "Arpad Racz",
-    "broker": "Altas Realty / Financial Services",
-    "average_price": 336,
-    "total_sales": 1315,
-    "yearly_sales": 799000,
-    "last_two_listings": [
-      "265 Polaris Way, Daly City, CA, 94014",
-      "3654 Pointer Ct, Merced, CA, 95340"
-    ],
-    "linkedin": "https://www.linkedin.com/in/arpadracz",
-    "broker_simplified": "Atlas"
-  },
-  {
-    "first_name": "Amanda",
-    "full_name": "Amanda Vang",
-    "broker": "Amanda Vang Team | Intero Real Estate Services",
-    "average_price": 21,
-    "total_sales": 80,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "740 Glenburry Way, San Jose, CA, 95123",
-      "4675 La Crescent Loop, San Jose, CA, 95136"
-    ],
-    "linkedin": "https://www.linkedin.com/in/amanda-vang",
-    "broker_simplified": "Intero Real Estate"
-  },
-  {
-    "first_name": "Steve",
-    "full_name": "Steve Guerrero",
-    "broker": "Intero Real Estate Services",
-    "average_price": 11,
-    "total_sales": 133,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "932 Apricot Ave, Campbell, CA, 95008",
-      "848 Jackson St, San Jose, CA, 95112"
-    ],
-    "linkedin": "https://www.linkedin.com/in/steve-guerrero-9b387012",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Diane",
-    "full_name": "Diane Ji",
-    "broker": "Diane Ji",
-    "average_price": 16,
-    "total_sales": 95,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "519 Isabella Ave, El Granada, CA, 94018",
-      "1580 Hurka Way, Gilroy, CA, 95020"
-    ],
-    "linkedin": "https://www.linkedin.com/in/diane-ji-38525b40",
-    "broker_simplified": "Merrill Lynch"
-  },
-  {
-    "first_name": "Julie",
-    "full_name": "Julie Davis",
-    "broker": "Compass",
-    "average_price": 6,
-    "total_sales": 249,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "108 N Claremont Ave, San Jose, CA, 95127",
-      "270 N Lake Blvd #13, Tahoe City, CA, 96145"
-    ],
-    "linkedin": "https://www.linkedin.com/in/julieodavis",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Ann",
-    "full_name": "Ann Thai",
-    "broker": "Compass",
-    "average_price": 23,
-    "total_sales": 232,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "2906 Fairfax Ave, San Jose, CA, 95148",
-      "2508 Yerba Hills Ct, San Jose, CA, 95121"
-    ],
-    "linkedin": "https://www.linkedin.com/in/ann-thai-66617b",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Don",
-    "full_name": "Don Orason - Silicon Valley Team",
-    "broker": "Intero Real Estate - Berkshire Hathaway",
-    "average_price": 16,
-    "total_sales": 224,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "6962 Gregorich Dr UNIT B, San Jose, CA, 95138",
-      "5178 Cribari Knls, San Jose, CA, 95135"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sanjoserealestateagent",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Valerie",
-    "full_name": "Valerie Mein",
-    "broker": "Coldwell Banker",
-    "average_price": 30,
-    "total_sales": 451,
-    "yearly_sales": 2700000,
-    "last_two_listings": [
-      "2110 Ardis Dr, San Jose, CA, 95125",
-      "1464 Phantom Ave, San Jose, CA, 95125"
-    ],
-    "linkedin": "https://www.linkedin.com/in/val-mein-21a07811",
-    "broker_simplified": "Coldwell"
-  },
-  {
-    "first_name": "Kelly",
-    "full_name": "Kelly Wang and Wendy Zhang Realty Team",
-    "broker": "Realty Innova",
-    "average_price": 7,
-    "total_sales": 145,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "1796 Dalton Dr, Milpitas, CA, 95035",
-      "849 Gladiola Dr, Sunnyvale, CA, 94086"
-    ],
-    "linkedin": "https://www.linkedin.com/in/wendy-zhang-",
-    "broker_simplified": "Realty Innova"
-  },
-  {
-    "first_name": "Vladimir",
-    "full_name": "Vladimir Westbrook",
-    "broker": "Coldwell Banker Realty",
-    "average_price": 23,
-    "total_sales": 228,
-    "yearly_sales": 1200000,
-    "last_two_listings": [
-      "482 Beresford Ave, Redwood City, CA, 94061",
-      "1048 Monroe St #315, Santa Clara, CA, 95050"
-    ],
-    "linkedin": "https://www.linkedin.com/in/vladimirwestbrook",
-    "broker_simplified": "Coldwell Banker"
-  },
-  {
-    "first_name": "Xiaozhu(Daydreamer)",
-    "full_name": "Xiaozhu(Daydreamer) Kang",
-    "broker": "Coldwell Banker Realty",
-    "average_price": 73,
-    "total_sales": 328,
-    "yearly_sales": 1800000,
-    "last_two_listings": [
-      "1431 Currant Rd #41, Milpitas, CA, 95035",
-      "8192 Locust Pl S, Dublin, CA, 94568"
-    ],
-    "linkedin": "https://www.linkedin.com/in/daydreamerkang",
-    "broker_simplified": "Coldwell Banker"
-  },
-  {
-    "first_name": "Terel",
-    "full_name": "Terel Beppu",
-    "broker": "Beppu Group, LLC, Real Estate Advisors | Side",
-    "average_price": 8,
-    "total_sales": 332,
-    "yearly_sales": 2000000,
-    "last_two_listings": [
-      "203 Proximity Way, San Jose, CA, 95110",
-      "4413 Keepsake Rose Cmn, Fremont, CA, 94538"
-    ],
-    "linkedin": "https://www.linkedin.com/in/terelbeppu",
-    "broker_simplified": "Beppu Group"
-  },
-  {
-    "first_name": "Nicki",
-    "full_name": "Nicki Banucci",
-    "broker": "Compass",
-    "average_price": 19,
-    "total_sales": 254,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "1191 Holmes Ave, Campbell, CA, 95008",
-      "998 White Cloud Dr, Morgan Hill, CA, 95037"
-    ],
-    "linkedin": "https://www.linkedin.com/in/banucci",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Eric",
-    "full_name": "Eric Tran",
-    "broker": "Intero",
-    "average_price": 5,
-    "total_sales": 1068,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "19644 Needham Ln, Saratoga, CA, 95070",
-      "783 Alice Ave, Mountain View, CA, 94041"
-    ],
-    "linkedin": "https://www.linkedin.com/in/eric-huong-tran-58388b90",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Nneka",
-    "full_name": "Nneka Jenkins",
-    "broker": "Onyx Wealth Realty",
-    "average_price": 28,
-    "total_sales": 215,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "6050 Johnston Dr, Oakland, CA, 94611",
-      "1716 Grizilo Dr, San Jose, CA, 95124"
-    ],
-    "linkedin": "https://www.linkedin.com/in/nnekajenkins",
-    "broker_simplified": "Onyx"
-  },
-  {
-    "first_name": "VINICIUS",
-    "full_name": "VINICIUS BRASIL",
-    "broker": "Keller Williams",
-    "average_price": 60,
-    "total_sales": 607,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "191 Loma Alta Ave, Los Gatos, CA, 95030",
-      "217 Saratoga Ave, Santa Clara, CA, 95050"
-    ],
-    "linkedin": "https://www.linkedin.com/in/viniciusbrasil",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Al",
-    "full_name": "Al MORIDI",
-    "broker": "INTERO - A Berkshire Hathaway Affiliate",
-    "average_price": 28,
-    "total_sales": 1108,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "740 Glenburry Way, San Jose, CA, 95123",
-      "2231 Menzel Pl, Santa Clara, CA, 95050"
-    ],
-    "linkedin": "https://www.linkedin.com/in/al-moridi-89a3a4204",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Sophia",
-    "full_name": "Sophia Delacotte",
-    "broker": "Compass",
-    "average_price": 1,
-    "total_sales": 97,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "5473 Makati Cir, San Jose, CA, 95123",
-      "8232 Claret Ct, San Jose, CA, 95135"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sophiadelacotte",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Grace",
-    "full_name": "Grace Tsang",
-    "broker": "Intero Real Estate",
-    "average_price": 23,
-    "total_sales": 221,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "875 Claremont Dr, Morgan Hill, CA, 95037",
-      "3728 Lindero Dr, Palo Alto, CA, 94306"
-    ],
-    "linkedin": "https://www.linkedin.com/in/gracetsangrealestate",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "David",
-    "full_name": "David Zaria",
-    "broker": "Compass",
-    "average_price": 68,
-    "total_sales": 544,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "2551 Butch Dr, Gilroy, CA, 95020",
-      "2391 Mantelli Dr, Gilroy, CA, 95020"
-    ],
-    "linkedin": "https://www.linkedin.com/in/davidzcompasslosgatos",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Valerie",
-    "full_name": "Valerie Trang",
-    "broker": "Infiniti Real Estate",
-    "average_price": 24,
-    "total_sales": 229,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "10017 Alcosta Blvd, San Ramon, CA, 94583",
-      "3815 Carrera Ct, San Jose, CA, 95148"
-    ],
-    "linkedin": "https://www.linkedin.com/in/valerie-trang-131700",
-    "broker_simplified": "Infiniti"
-  },
-  {
-    "first_name": "Sandy",
-    "full_name": "Sandy Kay",
-    "broker": "Keller Williams Bay Area Estates",
-    "average_price": 7,
-    "total_sales": 117,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "4679 Persimmon Pl, San Jose, CA, 95129",
-      "5 Admiral Dr #F307, Emeryville, CA, 94608"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sandy-kay-5485162a",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Stephen",
-    "full_name": "Stephen Slater",
-    "broker": "Intero Real Estate Services",
-    "average_price": 15,
-    "total_sales": 254,
-    "yearly_sales": 2900000,
-    "last_two_listings": [
-      "14574 Nelson Way, San Jose, CA, 95124",
-      "17514 Phillips Ave, Los Gatos, CA, 95030"
-    ],
-    "linkedin": "https://www.linkedin.com/in/stephenoslater",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Manu",
-    "full_name": "Manu Changotra",
-    "broker": "Coldwell Banker",
-    "average_price": 27,
-    "total_sales": 274,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "1963 Limewood Dr, San Jose, CA, 95132",
-      "730 Nutmeg Ave, Sunnyvale, CA, 94087"
-    ],
-    "linkedin": "https://www.linkedin.com/in/realtor-manu-changotra-3b5a6047",
-    "broker_simplified": "CB"
-  },
-  {
-    "first_name": "Sharad",
-    "full_name": "Sharad Gupta",
-    "broker": "Your Home Sold Guaranteed Realty",
-    "average_price": 7,
-    "total_sales": 63,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "714 Wasatch Dr, Fremont, CA, 94536",
-      "4181 Horizon Ct, San Jose, CA, 95148"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sharadguptarealtor",
-    "broker_simplified": "Your Home Sold Guaranteed Realty"
-  },
-  {
-    "first_name": "Thy",
-    "full_name": "Thy Nguyen",
-    "broker": "REMAX UP REAL ESTATE",
-    "average_price": 0,
-    "total_sales": 185,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "4258 Rivermark Pkwy #PY, Santa Clara, CA, 95054",
-      "292-296 Goodyear St, San Jose, CA, 95110"
-    ],
-    "linkedin": "https://www.linkedin.com/in/thynguyenrealtor",
-    "broker_simplified": "RE/MAX"
-  },
-  {
-    "first_name": "Rodger",
-    "full_name": "Rodger Shaheen",
-    "broker": "Coldwell Banker",
-    "average_price": 11,
-    "total_sales": 142,
-    "yearly_sales": 2000000,
-    "last_two_listings": [
-      "1555 Lincoln Ave, Capitola, CA, 95010",
-      "4980 Garnet St, Capitola, CA, 95010"
-    ],
-    "linkedin": null,
-    "broker_simplified": "Coldwell Banker"
-  },
-  {
-    "first_name": "Navneet",
-    "full_name": "Navneet Parmar",
-    "broker": "Real Estate Experts",
-    "average_price": 8,
-    "total_sales": 98,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "439 Camille Cir UNIT 16, San Jose, CA, 95134",
-      "5877 McGilvra Ct, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/navneet-parmar-13947a1",
-    "broker_simplified": "Realty Experts"
-  },
-  {
-    "first_name": "Shawn",
-    "full_name": "Shawn Ansari",
-    "broker": "COMPASS",
-    "average_price": 4,
-    "total_sales": 77,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "22540 Stevens Creek Blvd, Cupertino, CA, 95014",
-      "184 S 19th St, San Jose, CA, 95116"
-    ],
-    "linkedin": "https://www.linkedin.com/in/shawnansari",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Kirsten",
-    "full_name": "Kirsten Reilly",
-    "broker": "Compass",
-    "average_price": 20,
-    "total_sales": 281,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "2888 Lantz Ave, San Jose, CA, 95124",
-      "2965 Quinto Way, San Jose, CA, 95124"
-    ],
-    "linkedin": "https://www.linkedin.com/in/kirstenreilly",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Liza",
-    "full_name": "Liza Carneghi",
-    "broker": "Compass",
-    "average_price": 10,
-    "total_sales": 98,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "1244 Husted Ave, San Jose, CA, 95125",
-      "2296 Monitor Ct, San Jose, CA, 95125"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lizacarneghi",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Tony",
-    "full_name": "Tony Sum",
-    "broker": "Upswing Real Estate",
-    "average_price": 15,
-    "total_sales": 226,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "88 E San Fernando St UNIT 301, San Jose, CA, 95113",
-      "88 Bush St UNIT 1154, San Jose, CA, 95126"
-    ],
-    "linkedin": "https://www.linkedin.com/in/tksum",
-    "broker_simplified": "Upswing"
-  },
-  {
-    "first_name": "Shannon",
-    "full_name": "Shannon Rose",
-    "broker": "The Rose Group",
-    "average_price": 10,
-    "total_sales": 388,
-    "yearly_sales": 1200000,
-    "last_two_listings": [
-      "130 E San Fernando St APT 514, San Jose, CA, 95112",
-      "1865 Las Ramblas Dr, Concord, CA, 94521"
-    ],
-    "linkedin": "https://www.linkedin.com/in/shannonroserealestate",
-    "broker_simplified": "The Rose Group"
-  },
-  {
-    "first_name": "Sandy",
-    "full_name": "Sandy Albanese",
-    "broker": "Compass",
-    "average_price": 8,
-    "total_sales": 141,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "1122 Capri Dr, Campbell, CA, 95008",
-      "1506 Via Campo Aureo, San Jose, CA, 95120"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sandy-albanese-59039a12",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Abelardo",
-    "full_name": "Abelardo Arteaga",
-    "broker": "Abel Shiraki with Intero Real Estate",
-    "average_price": 0,
-    "total_sales": 275,
-    "yearly_sales": 0,
-    "last_two_listings": [
-      "214 Sirrah Way, Greenfield, CA, 93927",
-      "419 Hyland Dr #A, Salinas, CA, 93907"
-    ],
-    "linkedin": "https://www.linkedin.com/in/abel-arteaga-shiraki-73744a105",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Arlene",
-    "full_name": "Arlene Finney",
-    "broker": "Christie's International Real Estate Sereno",
-    "average_price": 10,
-    "total_sales": 276,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "12080 Brookglen Dr, Saratoga, CA, 95070",
-      "1581 Whiterock Cir, San Jose, CA, 95125"
-    ],
-    "linkedin": null,
-    "broker_simplified": "Sereno"
-  },
-  {
-    "first_name": "Coco",
-    "full_name": "Coco Tan",
-    "broker": "Keller Williams",
-    "average_price": 0,
-    "total_sales": 177,
-    "yearly_sales": 0,
-    "last_two_listings": [
-      "22013 Baxley Ct, Cupertino, CA, 95014",
-      "12793 Homes Dr, Saratoga, CA, 95070"
-    ],
-    "linkedin": "https://www.linkedin.com/in/realtorcocotan",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Jamie",
-    "full_name": "Jamie Sweeney",
-    "broker": "Compass",
-    "average_price": 14,
-    "total_sales": 183,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "1716 Grizilo Dr, San Jose, CA, 95124",
-      "3683 Tumble Way, San Jose, CA, 95132"
-    ],
-    "linkedin": "https://www.linkedin.com/in/jamie-sweeney-1a069a167",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "David",
-    "full_name": "David Lewis",
-    "broker": "Compass",
-    "average_price": 8,
-    "total_sales": 364,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "127 Belvue Dr, Los Gatos, CA, 95032",
-      "3117 Woodcrest Dr, San Jose, CA, 95118"
-    ],
-    "linkedin": "https://www.linkedin.com/in/davidlewisgroup",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Mary",
-    "full_name": "Mary Ann Wallace",
-    "broker": "Compass ",
-    "average_price": 13,
-    "total_sales": 318,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "4944 Northlawn Ct, San Jose, CA, 95130",
-      "318 Copco Ln, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/maryannwallace",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "The",
-    "full_name": "The Locals Team - Daunielle Doughty",
-    "broker": "Compass",
-    "average_price": 9,
-    "total_sales": 224,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "7689 Galloway Dr, San Jose, CA, 95135",
-      "2838 La Jolla Ave, San Jose, CA, 95124"
-    ],
-    "linkedin": "https://www.linkedin.com/in/erichwieland",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Sarbari",
-    "full_name": "Sarbari Das",
-    "broker": "Intero Real Estate Services",
-    "average_price": 0,
-    "total_sales": 57,
-    "yearly_sales": 3200000,
-    "last_two_listings": [
-      "3008 Oliver Dr, San Jose, CA, 95135",
-      "5973 Golden Vista Dr, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sarbari-das-037a6a5b",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Blanca",
-    "full_name": "Blanca Medellin",
-    "broker": "EXP Realty",
-    "average_price": 12,
-    "total_sales": 90,
-    "yearly_sales": 852000,
-    "last_two_listings": [
-      "1881 Arroyo De Platina, San Jose, CA, 95116",
-      "5855 Silver Leaf Rd, San Jose, CA, 95138"
-    ],
-    "linkedin": "https://www.linkedin.com/in/blanca-medellin-b82a95a9",
-    "broker_simplified": "EXP"
-  },
-  {
-    "first_name": "Sergio",
-    "full_name": "Sergio Gutierrez and Ivonne Estrada",
-    "broker": "Compass",
-    "average_price": 7,
-    "total_sales": 223,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "202 Coy Dr APT 3, San Jose, CA, 95123",
-      "1183 3rd St, San Juan Bautista, CA, 95045"
-    ],
-    "linkedin": "https://www.linkedin.com/in/ivonne-estrada",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Danny",
-    "full_name": "Danny Gould",
-    "broker": "eXp Realty of California",
-    "average_price": 0,
-    "total_sales": 133,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "1508 Hillsdale Ave, San Jose, CA, 95118",
-      "2539 Damuth St, Oakland, CA, 94602"
-    ],
-    "linkedin": "https://www.linkedin.com/in/dannygould",
-    "broker_simplified": "eXp"
-  },
-  {
-    "first_name": "Nomita",
-    "full_name": "Nomita and Jagi Shahani",
-    "broker": "Compass",
-    "average_price": 4,
-    "total_sales": 169,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "105 Millrich Dr, Los Gatos, CA, 95030",
-      "1786 Bowers Ave, Santa Clara, CA, 95051"
-    ],
-    "linkedin": "https://www.linkedin.com/in/nomitashahani",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Sean",
-    "full_name": "Sean Chen",
-    "broker": "Intero",
-    "average_price": 111,
-    "total_sales": 604,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "2081 Rockhurst Ct, Santa Clara, CA, 95051",
-      "2965 Via Torino, Santa Clara, CA, 95051"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sean-chen-8bab344",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Ryan",
-    "full_name": "Ryan Nickell",
-    "broker": "R.O.I. Real Estate",
-    "average_price": 28,
-    "total_sales": 148,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "2330 De Varona Pl, Santa Clara, CA, 95050",
-      "2032 Lynwood Trl, San Jose, CA, 95128"
-    ],
-    "linkedin": "https://www.linkedin.com/in/ryansnickel",
-    "broker_simplified": "R.O.I"
-  },
-  {
-    "first_name": "Erinna",
-    "full_name": "Erinna Tsai",
-    "broker": "MaxReal ",
-    "average_price": 0,
-    "total_sales": 130,
-    "yearly_sales": 1200000,
-    "last_two_listings": [
-      "574 W Hacienda Ave, Campbell, CA, 95008",
-      "1131 Reed Ave APT D, Sunnyvale, CA, 94086"
-    ],
-    "linkedin": "https://www.linkedin.com/in/erinna-tsai-0b0b6415",
-    "broker_simplified": "MaxReal"
-  },
-  {
-    "first_name": "Jackie",
-    "full_name": "Jackie Romant",
-    "broker": "Coldwell Banker",
-    "average_price": 1,
-    "total_sales": 97,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "20619 Longridge Ct, Groveland, CA, 95321",
-      "6168 Springer Way, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/jackieromant",
-    "broker_simplified": "Coldwell Banker"
-  },
-  {
-    "first_name": "Tom",
-    "full_name": "Tom Dang",
-    "broker": "Exp Realty",
-    "average_price": 9,
-    "total_sales": 94,
-    "yearly_sales": 872000,
-    "last_two_listings": [
-      "88 N Jackson Ave UNIT 118, San Jose, CA, 95116",
-      "1433 Amesbury Way, San Jose, CA, 95127"
-    ],
-    "linkedin": "https://www.linkedin.com/in/tom-dang-san-jose-realtor",
-    "broker_simplified": "Exp Realty"
-  },
-  {
-    "first_name": "Black",
-    "full_name": "Black Real Estate Team",
-    "broker": "Intero Real Estate Services Inc.",
-    "average_price": 4,
-    "total_sales": 173,
-    "yearly_sales": 1200000,
-    "last_two_listings": [
-      "475 Milan Dr UNIT 116, San Jose, CA, 95134",
-      "152 Bland Ave, Campbell, CA, 95008"
-    ],
-    "linkedin": "https://www.linkedin.com/in/georgeblackrealtor",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Alan",
-    "full_name": "Alan Wang",
-    "broker": "Alan Wang Realty Group",
-    "average_price": 37,
-    "total_sales": 540,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "205 Red Oak Dr W APT B, Sunnyvale, CA, 94086",
-      "22185 Old Santa Cruz Hwy, Los Gatos, CA, 95033"
-    ],
-    "linkedin": "https://www.linkedin.com/in/alanlwang",
-    "broker_simplified": "Wang Realty"
-  },
-  {
-    "first_name": "Erfan",
-    "full_name": "Erfan Modir",
-    "broker": "Intero Saratoga ",
-    "average_price": 37,
-    "total_sales": 193,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "4958 Red Creek Dr, San Jose, CA, 95136",
-      "668 Barcelona Loop, Milpitas, CA, 95035"
-    ],
-    "linkedin": "https://www.linkedin.com/in/erfan-modir-755840104",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Lana",
-    "full_name": "Lana - Real Estate Team",
-    "broker": "Century 21 Real Estate Alliance",
-    "average_price": 13,
-    "total_sales": 293,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "430 Shadowgraph Dr, San Jose, CA, 95110",
-      "4432 La Cresta Way APT 1, Stockton, CA, 95207"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lana-tyssen-75270322",
-    "broker_simplified": "Century 21"
-  },
-  {
-    "first_name": "Mike",
-    "full_name": "Mike Magen",
-    "broker": "Probity Real Estate ",
-    "average_price": 12,
-    "total_sales": 147,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "2753 Buttonwood Ct, San Jose, CA, 95148",
-      "5930 Foligno Way, San Jose, CA, 95138"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mike-magen",
-    "broker_simplified": "Probity"
-  },
-  {
-    "first_name": "Thomas",
-    "full_name": "Thomas Feng",
-    "broker": "REAL",
-    "average_price": 3,
-    "total_sales": 84,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "190 Caterina Way, Hayward, CA, 94545",
-      "750 Delmas Ave, San Jose, CA, 95125"
-    ],
-    "linkedin": "https://www.linkedin.com/in/thomasfeng",
-    "broker_simplified": "Realtor"
-  },
-  {
-    "first_name": "Zdenka",
-    "full_name": "Zdenka \"Zee\" Mahan",
-    "broker": "Intero Real Estate Services Berkshire Hathaway Affiliate",
-    "average_price": 1,
-    "total_sales": 232,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "350 N 2nd St APT 343, San Jose, CA, 95112",
-      "361 N Leigh Ave, Campbell, CA, 95008"
-    ],
-    "linkedin": "https://www.linkedin.com/in/zdenkazeemahan",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Isabella",
-    "full_name": "Isabella Sun",
-    "broker": "Compass",
-    "average_price": 19,
-    "total_sales": 226,
-    "yearly_sales": 2100000,
-    "last_two_listings": [
-      "3710 Pyramid Way, Mountain View, CA, 94043",
-      "1340 Navarro Dr, Sunnyvale, CA, 94087"
-    ],
-    "linkedin": "https://www.linkedin.com/in/isabella-sun",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Keith",
-    "full_name": "Keith Vong",
-    "broker": "Intero Real Estate",
-    "average_price": 19,
-    "total_sales": 311,
-    "yearly_sales": 943000,
-    "last_two_listings": [
-      "22 Kenbrook Cir, San Jose, CA, 95111",
-      "3014 Independence Ave, Marina, CA, 93933"
-    ],
-    "linkedin": "https://www.linkedin.com/in/keith-vong-5a392ab2",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Sundar",
-    "full_name": "Sundar K Gounder",
-    "broker": "Keller Williams Silicon City",
-    "average_price": 19,
-    "total_sales": 138,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "35453 Monterra Cir, Union City, CA, 94587",
-      "40124 Santa Teresa Cmn, Fremont, CA, 94539"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sgounder",
-    "broker_simplified": "Keller Williams"
-  },
-  {
-    "first_name": "Amy",
-    "full_name": "Amy McCafferty",
-    "broker": "Golden Gate Sotheby's International Realty",
-    "average_price": 29,
-    "total_sales": 432,
-    "yearly_sales": 3300000,
-    "last_two_listings": [
-      "224 Bacigalupi Dr, Los Gatos, CA, 95032",
-      "15400 Winchester Blvd APT 13, Los Gatos, CA, 95030"
-    ],
-    "linkedin": "https://www.linkedin.com/in/amy-mccafferty-realtor",
-    "broker_simplified": "Sotheby's Intern"
-  },
-  {
-    "first_name": "Dan",
-    "full_name": "Dan Do",
-    "broker": "COMPASS",
-    "average_price": 13,
-    "total_sales": 94,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "2393 Plateau Dr, San Jose, CA, 95125",
-      "189 Esfahan Dr, San Jose, CA, 95111"
-    ],
-    "linkedin": "https://www.linkedin.com/in/dan-do-81169527",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Jide",
-    "full_name": "Jide Ogunbiyi",
-    "broker": "Coldwell Banker Realty",
-    "average_price": 34,
-    "total_sales": 130,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "458 Bancroft St, Santa Clara, CA, 95051",
-      "573 Giuffrida Ave APT B, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/jideogunbiyi",
-    "broker_simplified": "Coldwell's"
-  },
-  {
-    "first_name": "Jennifer",
-    "full_name": "Jennifer Yi",
-    "broker": "Red Door Real Estate / Keller William Thrive",
-    "average_price": 17,
-    "total_sales": 165,
-    "yearly_sales": 1700000,
-    "last_two_listings": [
-      "5679 Comanche Dr, San Jose, CA, 95123",
-      "65 Gladys Ave, Mountain View, CA, 94043"
-    ],
-    "linkedin": "https://www.linkedin.com/in/jenniferyihomes",
-    "broker_simplified": "Red Door Real Estate"
-  },
-  {
-    "first_name": "Sonny",
-    "full_name": "Sonny Pham",
-    "broker": "Your Home Sold Guaranteed Realty",
-    "average_price": 11,
-    "total_sales": 153,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "3731 Rosemar Ave, San Jose, CA, 95127",
-      "3537 Druffel Pl UNIT 3, Santa Clara, CA, 95051"
-    ],
-    "linkedin": "https://www.linkedin.com/in/sonny-pham-3743512a",
-    "broker_simplified": "YHSG Realty"
-  },
-  {
-    "first_name": "Alex",
-    "full_name": "Alex Bouja",
-    "broker": "Golden Gate Sotheby's International Realty",
-    "average_price": 18,
-    "total_sales": 203,
-    "yearly_sales": 2000000,
-    "last_two_listings": [
-      "707 W Capistrano Way, San Mateo, CA, 94402",
-      "19517 Mockingbird Hill Ln, San Jose, CA, 95120"
-    ],
-    "linkedin": "https://www.linkedin.com/in/alexbouja",
-    "broker_simplified": "Golden Gate Sotheby's"
-  },
-  {
-    "first_name": "Jolin",
-    "full_name": "Jolin Zhu",
-    "broker": "MaxReal",
-    "average_price": 10,
-    "total_sales": 151,
-    "yearly_sales": 2000000,
-    "last_two_listings": [
-      "3531 Earl Dr, Santa Clara, CA, 95051",
-      "2283 Shelley Ave, San Jose, CA, 95124"
-    ],
-    "linkedin": null,
-    "broker_simplified": "MaxReal"
-  },
-  {
-    "first_name": "Heena",
-    "full_name": "Heena Joshi",
-    "broker": "COMPASS",
-    "average_price": 34,
-    "total_sales": 175,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "5669 Coffeeberry Rd, Newark, CA, 94560",
-      "933 Courtland Ct, Milpitas, CA, 95035"
-    ],
-    "linkedin": "https://www.linkedin.com/in/realtorheenajoshi",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Eddie",
-    "full_name": "Eddie Oberoi MBA",
-    "broker": "Intero Real Estate",
-    "average_price": 46,
-    "total_sales": 497,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "4949 Portmarnoch Ct, San Jose, CA, 95138",
-      "635 Tabor Dr, Scotts Valley, CA, 95066"
-    ],
-    "linkedin": "https://www.linkedin.com/in/eddie-oberoi-24364035",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Marc",
-    "full_name": "Marc Blaauw",
-    "broker": "Compass",
-    "average_price": 3,
-    "total_sales": 132,
-    "yearly_sales": 2600000,
-    "last_two_listings": [
-      "365 Martens Ave, Mountain View, CA, 94040",
-      "2064 Sheraton Dr, Santa Clara, CA, 95050"
-    ],
-    "linkedin": "https://www.linkedin.com/in/marc-blaauw-5071289",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Flyhomes",
-    "full_name": "Flyhomes Inc.",
-    "broker": "Flyhomes",
-    "average_price": 162,
-    "total_sales": 3523,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "915 N 39th Street, Seattle, WA, 98103",
-      "3868 Jefferson Ave, Redwood City, CA, 94062"
-    ],
-    "linkedin": null,
-    "broker_simplified": "Flyhomes"
-  },
-  {
-    "first_name": "Doorlight",
-    "full_name": "Doorlight Inc",
-    "broker": "Doorlight Inc",
-    "average_price": 45,
-    "total_sales": 135,
-    "yearly_sales": 1400000,
-    "last_two_listings": [
-      "725 Mariposa Ave APT 207, Mountain View, CA, 94041",
-      "5984 Garces Ave, San Jose, CA, 95123"
-    ],
-    "linkedin": "https://www.linkedin.com/in/nick-roe-real",
-    "broker_simplified": "Doorlight"
-  },
-  {
-    "first_name": "Steve",
-    "full_name": "Steve Chin",
-    "broker": "Primeq Realty",
-    "average_price": 2,
-    "total_sales": 146,
-    "yearly_sales": 1300000,
-    "last_two_listings": [
-      "1149 Summertree Ct, San Jose, CA, 95132",
-      "6927 Corte Barcelona, Pleasanton, CA, 94566"
-    ],
-    "linkedin": "https://www.linkedin.com/in/stevechinre",
-    "broker_simplified": "Primeq"
-  },
-  {
-    "first_name": "Veeral",
-    "full_name": "Veeral Shah",
-    "broker": "Compass",
-    "average_price": 19,
-    "total_sales": 142,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "1671 Elwood Dr, Los Gatos, CA, 95032",
-      "2729 Lone Bluff Way, San Jose, CA, 95111"
-    ],
-    "linkedin": "https://www.linkedin.com/in/shahveeral",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Lila",
-    "full_name": "Lila Kazemi",
-    "broker": "Compass",
-    "average_price": 24,
-    "total_sales": 253,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "531 San Lorenzo Ter UNIT 6, Sunnyvale, CA, 94085",
-      "2527 Alto Ct, San Jose, CA, 95148"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lila-kazemi",
-    "broker_simplified": "Compass"
-  },
-  {
-    "first_name": "Mitch",
-    "full_name": "Mitch del Rosario",
-    "broker": "Kollab Real Estate",
-    "average_price": 14,
-    "total_sales": 92,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "3644 Warner Dr, San Jose, CA, 95127",
-      "110 Wendy Ln, El Sobrante, CA, 94803"
-    ],
-    "linkedin": "https://www.linkedin.com/in/mitchdrealty",
-    "broker_simplified": "Kollab"
-  },
-  {
-    "first_name": "Terese",
-    "full_name": "Terese Ferrara",
-    "broker": "KW Bay Area Estates",
-    "average_price": 9,
-    "total_sales": 69,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "491 Villa St, Mountain View, CA, 94041",
-      "5 Hill Ave, San Carlos, CA, 94070"
-    ],
-    "linkedin": "https://www.linkedin.com/in/tereseferrara",
-    "broker_simplified": "KW"
-  },
-  {
-    "first_name": "PARTNER",
-    "full_name": "PARTNER Real Estate NorCal",
-    "broker": "PARTNER Real Estate",
-    "average_price": 15,
-    "total_sales": 54,
-    "yearly_sales": 1100000,
-    "last_two_listings": [
-      "3731 Rosemar Ave, San Jose, CA, 95127",
-      "3537 Druffel Pl UNIT 3, Santa Clara, CA, 95051"
-    ],
-    "linkedin": "https://www.linkedin.com/in/stacie-mclaughlin-616a6240",
-    "broker_simplified": "Partner"
-  },
-  {
-    "first_name": "Lynne",
-    "full_name": "Lynne Tran",
-    "broker": "Intero Real Estate Services",
-    "average_price": 5,
-    "total_sales": 237,
-    "yearly_sales": 1600000,
-    "last_two_listings": [
-      "15543 Longwood Dr, Los Gatos, CA, 95032",
-      "6610 Tecate Ln, Gilroy, CA, 95020"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lynne-tran-5912b81a",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Century",
-    "full_name": "Century 21 Alpha",
-    "broker": "Century 21 Alpha",
-    "average_price": 0,
-    "total_sales": 163,
-    "yearly_sales": 1900000,
-    "last_two_listings": [
-      "5232 Harwood Rd, San Jose, CA, 95124",
-      "882 Poplar Ave, Sunnyvale, CA, 94086"
-    ],
-    "linkedin": "https://www.linkedin.com/in/rickfunk",
-    "broker_simplified": "Century 21"
-  },
-  {
-    "first_name": "David",
-    "full_name": "David Guardanapo",
-    "broker": "Intero Real Estate Services ",
-    "average_price": 29,
-    "total_sales": 106,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "700 Chiquita Ave APT 5, Mountain View, CA, 94041",
-      "60 Sheffield Ct, Mountain View, CA, 94040"
-    ],
-    "linkedin": "https://www.linkedin.com/in/davidguardanapo",
-    "broker_simplified": "Intero"
-  },
-  {
-    "first_name": "Lex",
-    "full_name": "Lex Orosco",
-    "broker": "Lex Orosco",
-    "average_price": 56,
-    "total_sales": 316,
-    "yearly_sales": 1500000,
-    "last_two_listings": [
-      "2060 Lee Way, Milpitas, CA, 95035",
-      "1785 Colony Way, Gilroy, CA, 95020"
-    ],
-    "linkedin": "https://www.linkedin.com/in/lexorosco",
-    "broker_simplified": "Northwestern Mutual"
-  },
-  {
-    "first_name": "Quader",
-    "full_name": "Quader Azim",
-    "broker": "Re/Max Synergy Group",
-    "average_price": 11,
-    "total_sales": 133,
-    "yearly_sales": 1000000,
-    "last_two_listings": [
-      "2705 Sierra Rd, San Jose, CA, 95132",
-      "713 Garcia Ave, Roseville, CA, 95678"
-    ],
-    "linkedin": "https://www.linkedin.com/in/quader-azim-14a83642",
+    "first_name": "Debbie",
+    "full_name": "Debbie Dogrul Associates",
+    "broker": "Debbie Dogrul Associates  brokered by eXp Realty",
+    "yearly_sales": 412,
+    "total_sales": 6165,
+    "average_price": 701000,
+    "last_two_listings": [
+      "6454 Gildar St, Alexandria, VA, 22310",
+      "21793 Canfield Ter, Sterling, VA, 20164"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ddarealestate",
+    "broker_simplified": "eXp Realty"
+  },
+  {
+    "first_name": "Sandra",
+    "full_name": "Sandra Crews",
+    "broker": "RE/MAX Executives, SRES CRS ABR CIPS GRI e-PRO CDPE Designations",
+    "yearly_sales": 22,
+    "total_sales": 340,
+    "average_price": 767000,
+    "last_two_listings": [
+      "12606 Tolman Rd, Fairfax, VA, 22033",
+      "3100 S Manchester St APT 731, Falls Church, VA, 22044"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sandra-crews-764a60184",
     "broker_simplified": "ReMax"
   },
   {
-    "first_name": "Nakul",
-    "full_name": "Nakul Kapoor",
-    "broker": "Intero Real Estate Services",
-    "average_price": 15,
-    "total_sales": 221,
-    "yearly_sales": 2000000,
+    "first_name": "Samson",
+    "full_name": "Samson Properties",
+    "broker": "Samson Properties",
+    "yearly_sales": 737,
+    "total_sales": 8683,
+    "average_price": 563000,
     "last_two_listings": [
-      "4281 Windsor Park Dr, San Jose, CA, 95136",
-      "5485 Lauren Dr, San Jose, CA, 95124"
+      "36 Chadwick Dr, Stafford, VA, 22556",
+      "1121 Arlington Blvd APT 631, Arlington, VA, 22209"
     ],
-    "linkedin": "https://www.linkedin.com/in/nakulkapoor",
-    "broker_simplified": "Intero"
+    "linkedin": "https://www.linkedin.com/in/donny-samson-a9abb715a",
+    "broker_simplified": "Samson Props"
   },
   {
-    "first_name": "CJ",
-    "full_name": "CJ Brasiel",
-    "broker": "Veridian Realty",
-    "average_price": 5,
-    "total_sales": 144,
-    "yearly_sales": 1400000,
+    "first_name": "Eric",
+    "full_name": "Eric Pearson",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 1034,
+    "total_sales": 6550,
+    "average_price": 635000,
     "last_two_listings": [
-      "1136 Buchanan Dr, Santa Clara, CA, 95051",
-      "636 N 20th St, San Jose, CA, 95112"
+      "13174 Trails End Ct, Manassas, VA, 20112",
+      "3201 Commonwealth Ave UNIT 1-3201D, Alexandria, VA, 22305"
     ],
-    "linkedin": "https://www.linkedin.com/in/cjbrasiel",
-    "broker_simplified": "Veridian"
+    "linkedin": "https://www.linkedin.com/in/eric-pearson-47807920",
+    "broker_simplified": "Pearson Smith"
   },
   {
-    "first_name": "Trieu",
-    "full_name": "Trieu Tran",
-    "broker": "Clarus Properties, Inc.",
-    "average_price": 0,
-    "total_sales": 66,
-    "yearly_sales": 0,
+    "first_name": "Cristina",
+    "full_name": "Cristina Dougherty",
+    "broker": "Long & Foster Real Estate",
+    "yearly_sales": 29,
+    "total_sales": 504,
+    "average_price": 840000,
     "last_two_listings": [
-      "5450 Monterey Rd #15, San Jose, CA, 95111",
-      "1801 Lavonne Ave, San Jose, CA, 95116"
+      "12205 Lake James Dr, Herndon, VA, 20171",
+      "25 Newland Ct, Sterling, VA, 20165"
     ],
-    "linkedin": "https://www.linkedin.com/in/trieutranrealtor",
-    "broker_simplified": "Clarus Properties"
+    "linkedin": "https://www.linkedin.com/in/cristinadoughertyassociatesrealtor",
+    "broker_simplified": "Long & Foster"
   },
   {
-    "first_name": "Catalina",
-    "full_name": "Catalina Collins, Esq.",
-    "broker": "Catalina Collins",
-    "average_price": 0,
-    "total_sales": 127,
-    "yearly_sales": 800000,
+    "first_name": "Sarah",
+    "full_name": "Sarah Harrington",
+    "broker": "Long and Foster",
+    "yearly_sales": 33,
+    "total_sales": 439,
+    "average_price": 995000,
     "last_two_listings": [
-      "1150 Brace Ave, San Jose, CA, 95125",
-      "1320 E Campbell Ave, Campbell, CA, 95008"
+      "7804 Willow Point Dr #7804, Falls Church, VA, 22042",
+      "9402 Old Reserve Way, Fairfax, VA, 22031"
     ],
-    "linkedin": "https://www.linkedin.com/in/catalinacollins",
-    "broker_simplified": "Collins"
+    "linkedin": "https://www.linkedin.com/in/sarah-harrington-33b86a10",
+    "broker_simplified": "Long and Foster"
   },
   {
-    "first_name": "Alana",
-    "full_name": "Alana Lam Real Estate Group",
-    "broker": "Alana Lam Real Estate Group",
-    "average_price": 19,
-    "total_sales": 375,
-    "yearly_sales": 1600000,
+    "first_name": "Julie",
+    "full_name": "Julie Brodie",
+    "broker": "Neighborhood Choice Realty",
+    "yearly_sales": 18,
+    "total_sales": 406,
+    "average_price": 746000,
     "last_two_listings": [
-      "855 Masson Ave, San Bruno, CA, 94066",
-      "366 Penn Way, Los Gatos, CA, 95032"
+      "2311 Pimmit Dr APT 1005, Falls Church, VA, 22043",
+      "45826 Winding Branch Ter, Sterling, VA, 20166"
     ],
-    "linkedin": null,
-    "broker_simplified": "Alana Lam Real Estate Group"
+    "linkedin": "https://www.linkedin.com/in/julie-brodie",
+    "broker_simplified": "Neighborhood Choice"
   },
   {
-    "first_name": "Troy",
-    "full_name": "Troy Thinh Khuu",
-    "broker": "Intero Real Estate Services",
-    "average_price": 16,
-    "total_sales": 146,
-    "yearly_sales": 997000,
+    "first_name": "Joe",
+    "full_name": "Joe Dettor",
+    "broker": "Keller Williams Fairfax Gateway",
+    "yearly_sales": 37,
+    "total_sales": 355,
+    "average_price": 736000,
     "last_two_listings": [
-      "88 E San Fernando St UNIT 1506, San Jose, CA, 95113",
-      "22 Rockway Dr, San Jose, CA, 95127"
+      "13040 Maple View Ln, Fairfax, VA, 22033",
+      "13303 Poplar Tree Rd, Fairfax, VA, 22033"
     ],
-    "linkedin": "https://www.linkedin.com/in/troythinhkhuu",
-    "broker_simplified": "Intero"
+    "linkedin": "https://www.linkedin.com/in/joe-dettor-6621769",
+    "broker_simplified": "Keller Williams"
   },
   {
-    "first_name": "Irene",
-    "full_name": "Irene Borz",
-    "broker": "1 TEAM REALTORS",
-    "average_price": 1,
-    "total_sales": 366,
-    "yearly_sales": 1000000,
+    "first_name": "Dutko",
+    "full_name": "Dutko Ragen Homes and Investments",
+    "broker": "Dutko|Ragen Homes & Investments",
+    "yearly_sales": 122,
+    "total_sales": 1313,
+    "average_price": 736000,
     "last_two_listings": [
-      "551 Groth Pl, San Jose, CA, 95111",
-      "2955 Sunnybank Ln, Hayward, CA, 94541"
+      "6726 Perry Penney Dr #140, Annandale, VA, 22003",
+      "5321 Ravensworth Rd, Springfield, VA, 22151"
     ],
-    "linkedin": "https://www.linkedin.com/in/bestpriceforyourhome",
-    "broker_simplified": "One Team Realtors"
+    "linkedin": "https://www.linkedin.com/in/sean-ragen-4592795",
+    "broker_simplified": "Dutko"
+  },
+  {
+    "first_name": "Property",
+    "full_name": "Property Sisters",
+    "broker": "Long & Foster, REALTORS",
+    "yearly_sales": 20,
+    "total_sales": 378,
+    "average_price": 837000,
+    "last_two_listings": [
+      "2507 Fallsmere Ct, Falls Church, VA, 22043",
+      "5200 Marvell Ln, Fairfax, VA, 22032"
+    ],
+    "linkedin": "https://www.linkedin.com/in/karen-mccarthy-35967140",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "Wendy",
+    "full_name": "Wendy Chen",
+    "broker": "Libra Realty",
+    "yearly_sales": 29,
+    "total_sales": 432,
+    "average_price": 867000,
+    "last_two_listings": [
+      "1611 Simmons Dr, Mclean, VA, 22101",
+      "6676 Avignon Blvd, Falls Church, VA, 22043"
+    ],
+    "linkedin": "https://www.linkedin.com/in/wendy-chen-95124957",
+    "broker_simplified": "Libra"
   },
   {
     "first_name": "Chris",
-    "full_name": "Chris & Francine Simone",
-    "broker": "The Simone Team with Allison James Estates and Homes",
-    "average_price": 12,
-    "total_sales": 313,
-    "yearly_sales": 1800000,
+    "full_name": "Chris Craddock",
+    "broker": "The Redux Group - eXp Realty",
+    "yearly_sales": 356,
+    "total_sales": 2265,
+    "average_price": 498000,
     "last_two_listings": [
-      "947 N Central Ave, Campbell, CA, 95008",
-      "2703 New Jersey Ave, San Jose, CA, 95124"
+      "2162 Mager Dr, Herndon, VA, 20170",
+      "113 Duryea Dr, Joppa, MD, 21085"
     ],
-    "linkedin": "https://www.linkedin.com/in/simone-eurich",
-    "broker_simplified": "Allison James"
+    "linkedin": "https://www.linkedin.com/in/chris-craddock-92100171",
+    "broker_simplified": "eXp"
   },
   {
-    "first_name": "Sophie",
-    "full_name": "Sophie Tsang MBA",
-    "broker": "Compass",
-    "average_price": 12,
-    "total_sales": 391,
-    "yearly_sales": 1700000,
+    "first_name": "Charles",
+    "full_name": "Charles Kim",
+    "broker": "Samson Properties",
+    "yearly_sales": 71,
+    "total_sales": 477,
+    "average_price": 753000,
     "last_two_listings": [
-      "25111 Vista Greens Ct, Hayward, CA, 94541",
-      "335 Middlefield Rd, Palo Alto, CA, 94301"
+      "41288 Lavender Breeze Cir, Aldie, VA, 20105",
+      "6711 Applemint Ln, Alexandria, VA, 22310"
     ],
-    "linkedin": "https://www.linkedin.com/in/sophietsang",
+    "linkedin": "https://www.linkedin.com/in/charles-kim-6919001a7",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Jennifer",
+    "full_name": "Jennifer Young",
+    "broker": "Jennifer Young Homes",
+    "yearly_sales": 215,
+    "total_sales": 3331,
+    "average_price": 607000,
+    "last_two_listings": [
+      "3819 Carolyn Ave, Fairfax, VA, 22031",
+      "109 Alderwood Dr, N Potomac, MD, 20878"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jenniferyoungkwagent",
+    "broker_simplified": "Jennifer Young Homes"
+  },
+  {
+    "first_name": "Keri",
+    "full_name": "Keri Shull",
+    "broker": "Keri Shull Team",
+    "yearly_sales": 249,
+    "total_sales": 5056,
+    "average_price": 624000,
+    "last_two_listings": [
+      "5257 Countryside Cir, Jeffersonton, VA, 22724",
+      "8 Goodport Ct, Gaithersburg, MD, 20878"
+    ],
+    "linkedin": "https://www.linkedin.com/in/keri-shull",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Troy",
+    "full_name": "Troy Sponaugle",
+    "broker": "Samson Properties",
+    "yearly_sales": 35,
+    "total_sales": 599,
+    "average_price": 690000,
+    "last_two_listings": [
+      "7804 Willow Point Dr #7804, Falls Church, VA, 22042",
+      "224 Orchard St, Front Royal, VA, 22630"
+    ],
+    "linkedin": "https://www.linkedin.com/in/troy-sponaugle-57a92aa5",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Michael",
+    "full_name": "Michael Putnam",
+    "broker": "The Putnam Group     RE/MAX Executives",
+    "yearly_sales": 104,
+    "total_sales": 1175,
+    "average_price": 596000,
+    "last_two_listings": [
+      "11801 Antietam Rd, Woodbridge, VA, 22192",
+      "10328 Sager Ave UNIT 114, Fairfax, VA, 22030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/michael-putnam-a2a2a0b",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Bic",
+    "full_name": "Bic DeCaro",
+    "broker": "Bic DeCaro & Associates | eXp Realty",
+    "yearly_sales": 56,
+    "total_sales": 961,
+    "average_price": 785000,
+    "last_two_listings": [
+      "15414 Silvan Glen Dr, Dumfries, VA, 22025",
+      "6197 Deer Ridge Trl, Springfield, VA, 22150"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bicdecaro",
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Lex",
+    "full_name": "Lex Lianos",
+    "broker": "Compass",
+    "yearly_sales": 35,
+    "total_sales": 725,
+    "average_price": 836000,
+    "last_two_listings": [
+      "146 Cedar Hill Dr, Swanton, MD, 21561",
+      "46692 Sandalwood Sq, Sterling, VA, 20164"
+    ],
+    "linkedin": null,
     "broker_simplified": "Compass"
   },
   {
-    "first_name": "Kollab",
-    "full_name": "Kollab Real Estate",
-    "broker": "Kollab Real Estate",
-    "average_price": 79,
-    "total_sales": 161,
-    "yearly_sales": 1100000,
+    "first_name": "Kathlene",
+    "full_name": "Kathlene Holzhauer",
+    "broker": "Debbie Dogrul Associates - EXP Realty",
+    "yearly_sales": 28,
+    "total_sales": 93,
+    "average_price": 773000,
     "last_two_listings": [
-      "5543 Eagles Ln APT 2, San Jose, CA, 95123",
-      "800 La Baig Dr, Hollister, CA, 95023"
+      "8374 Magic Leaf Rd, Springfield, VA, 22153",
+      "3805 Hillcrest Ln, Annandale, VA, 22003"
     ],
-    "linkedin": "https://www.linkedin.com/in/mitchdrealty",
-    "broker_simplified": "Kollab"
+    "linkedin": null,
+    "broker_simplified": "EXP Realty"
+  },
+  {
+    "first_name": "Jennifer",
+    "full_name": "Jennifer Fang",
+    "broker": "Samson Properties",
+    "yearly_sales": 26,
+    "total_sales": 241,
+    "average_price": 732000,
+    "last_two_listings": [
+      "1605 N Van Dorn St, Alexandria, VA, 22304",
+      "7215 Tyler Ave, Falls Church, VA, 22042"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jennifer-fang-144388106",
+    "broker_simplified": "Samson Properties"
+  },
+  {
+    "first_name": "Will",
+    "full_name": "Will Gaskins",
+    "broker": "Keller Williams, The Gaskins Team",
+    "yearly_sales": 61,
+    "total_sales": 1174,
+    "average_price": 990000,
+    "last_two_listings": [
+      "3508 N Ohio St, Arlington, VA, 22207",
+      "10899 Woodland Falls Dr, Great Falls, VA, 22066"
+    ],
+    "linkedin": "https://www.linkedin.com/in/julierice1",
+    "broker_simplified": "Keller Williams Gaskins"
+  },
+  {
+    "first_name": "Tracey",
+    "full_name": "Tracey Barrett",
+    "broker": "FOCUS on NoVA REAL ESTATE, Century 21 Redwood Realty",
+    "yearly_sales": 24,
+    "total_sales": 411,
+    "average_price": 695000,
+    "last_two_listings": [
+      "2229 Lovedale Ln #302B, Reston, VA, 20191",
+      "5037 Linette Ln, Annandale, VA, 22003"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tracey-barrett-13707811",
+    "broker_simplified": "Century 21"
+  },
+  {
+    "first_name": "Harrison",
+    "full_name": "Harrison Williams",
+    "broker": "Debbie Dogrul Associates,Brokered by eXp Realty",
+    "yearly_sales": 2,
+    "total_sales": 2,
+    "average_price": 766000,
+    "last_two_listings": [
+      "8802 Cameo Sq, Springfield, VA, 22152",
+      "18424 Lanier Island Sq, Leesburg, VA, 20176"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ddarealestate",
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Robyn",
+    "full_name": "Robyn Burdett",
+    "broker": "EXP Realty LLC",
+    "yearly_sales": 3,
+    "total_sales": 525,
+    "average_price": 864000,
+    "last_two_listings": [
+      "13701 Eastcliff Cir, Centreville, VA, 20120",
+      "3949 Old Dominion Blvd, Alexandria, VA, 22305"
+    ],
+    "linkedin": "https://www.linkedin.com/in/robynburdett",
+    "broker_simplified": "EXP"
+  },
+  {
+    "first_name": "TERRA",
+    "full_name": "TERRA Properties",
+    "broker": "Berkshire Hathaway HomeServices - PenFed Realty",
+    "yearly_sales": 29,
+    "total_sales": 343,
+    "average_price": 562000,
+    "last_two_listings": [
+      "3314 Wrenn House Ct, Herndon, VA, 20171",
+      "43527 Old Ryan Rd, Ashburn, VA, 20148"
+    ],
+    "linkedin": "https://www.linkedin.com/in/terra-morris-a1361895",
+    "broker_simplified": "PenFed Realty"
+  },
+  {
+    "first_name": "The",
+    "full_name": "The CAZA Group",
+    "broker": "The CAZA Group of eXp Realty",
+    "yearly_sales": 134,
+    "total_sales": 1567,
+    "average_price": 608000,
+    "last_two_listings": [
+      "25-25 Virginia Ave #27, Cumberland, MD, 21502",
+      "23 Virginia Ave, Cumberland, MD, 21502"
+    ],
+    "linkedin": "https://www.linkedin.com/in/robertchevez",
+    "broker_simplified": "eXp Realtty"
+  },
+  {
+    "first_name": "Jay",
+    "full_name": "Jay DAlessandro",
+    "broker": "Debbie Dogrul Associates brokered by eXp Realty",
+    "yearly_sales": 57,
+    "total_sales": 142,
+    "average_price": 857000,
+    "last_two_listings": [
+      "7820 Mulberry Bottom Ln, Springfield, VA, 22153",
+      "5911 Aplomado Dr, Burke, VA, 22015"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jay-d-alessandro-9646068b",
+    "broker_simplified": "eXp Realty"
+  },
+  {
+    "first_name": "Samer",
+    "full_name": "Samer Kuraishi",
+    "broker": "The ONE Street Company",
+    "yearly_sales": 285,
+    "total_sales": 4522,
+    "average_price": 575000,
+    "last_two_listings": [
+      "5610 Kansas Ave NW, Washington, DC, 20011",
+      "1601 N Carolina Ave NE #6, Washington, DC, 20002"
+    ],
+    "linkedin": "https://www.linkedin.com/in/samerkuraishionere",
+    "broker_simplified": "OneStreet"
+  },
+  {
+    "first_name": "Daan",
+    "full_name": "Daan De Raedt",
+    "broker": "Property Collective",
+    "yearly_sales": 118,
+    "total_sales": 1174,
+    "average_price": 908000,
+    "last_two_listings": [
+      "13158 Morning Spring Ln, Fairfax, VA, 22033",
+      "3807 6th St S, Arlington, VA, 22204"
+    ],
+    "linkedin": "https://www.linkedin.com/in/daan-de-raedt-07158954",
+    "broker_simplified": "Prop Collective"
+  },
+  {
+    "first_name": "Lizzie",
+    "full_name": "Lizzie Helmig",
+    "broker": "metroHouse",
+    "yearly_sales": 51,
+    "total_sales": 443,
+    "average_price": 552000,
+    "last_two_listings": [
+      "13064 Amber Dell Ct, Fairfax, VA, 22030",
+      "46402 Rilassare Ter, Sterling, VA, 20164"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lizzie-helmig-7ba5517",
+    "broker_simplified": "Metro"
+  },
+  {
+    "first_name": "The",
+    "full_name": "The Mercy Lugo-Struthers Team",
+    "broker": "Casals, Realtors",
+    "yearly_sales": 132,
+    "total_sales": 917,
+    "average_price": 493000,
+    "last_two_listings": [
+      "4604 Telfair Ct, Woodbridge, VA, 22193",
+      "2620 Ruffin Dr, Fredericksburg, VA, 22408"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mercy-lugo-struthers-44200a71",
+    "broker_simplified": "Casals Realtors"
+  },
+  {
+    "first_name": "Jason",
+    "full_name": "Jason Cheperdak",
+    "broker": "Samson Properties",
+    "yearly_sales": 518,
+    "total_sales": 1537,
+    "average_price": 630000,
+    "last_two_listings": [
+      "1836 Cedar Cove Way UNIT 101, Woodbridge, VA, 22191",
+      "1598 Wise Ct, Point Of Rocks, MD, 21777"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jason-cheperdak-0a15232a",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Jeff",
+    "full_name": "Jeff Major",
+    "broker": "Berkshire Hathaway HomeServices PenFed Realty",
+    "yearly_sales": 5,
+    "total_sales": 117,
+    "average_price": 769000,
+    "last_two_listings": [
+      "11620 Newbridge Ct, Reston, VA, 20191",
+      "13043 Hattontown Sq, Herndon, VA, 20171"
+    ],
+    "linkedin": "https://www.linkedin.com/in/northernvirginiahomesjeffmajor",
+    "broker_simplified": "Berkshire Hathaway HomeServices"
+  },
+  {
+    "first_name": "DWELLUS",
+    "full_name": "DWELLUS Group",
+    "broker": "Dwellus",
+    "yearly_sales": 39,
+    "total_sales": 852,
+    "average_price": 760000,
+    "last_two_listings": [
+      "101 Mayfair Dr NE, Leesburg, VA, 20176",
+      "6940 Cumberstone Pl, Gainesville, VA, 20155"
+    ],
+    "linkedin": "https://www.linkedin.com/in/richard-schneck-9832ab9",
+    "broker_simplified": "Dwellus"
+  },
+  {
+    "first_name": "Joe",
+    "full_name": "Joe Azer",
+    "broker": "Samson Properties",
+    "yearly_sales": 24,
+    "total_sales": 186,
+    "average_price": 682000,
+    "last_two_listings": [
+      "8296 Reiser Ln, Lorton, VA, 22079",
+      "45566 Lakeside Dr, Sterling, VA, 20165"
+    ],
+    "linkedin": "https://www.linkedin.com/in/andrew-azer-125b6917b",
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Erin",
+    "full_name": "Erin K. Jones",
+    "broker": "KW Metro Center",
+    "yearly_sales": 204,
+    "total_sales": 1329,
+    "average_price": 512000,
+    "last_two_listings": [
+      "16609 Fern Pl, Woodbridge, VA, 22191",
+      "5806 Banning Pl, Burke, VA, 22015"
+    ],
+    "linkedin": "https://www.linkedin.com/in/erin-c-jones",
+    "broker_simplified": "KW"
+  },
+  {
+    "first_name": "Jennifer",
+    "full_name": "Jennifer Mack",
+    "broker": "EXP Realty, LLC",
+    "yearly_sales": 59,
+    "total_sales": 583,
+    "average_price": 649000,
+    "last_two_listings": [
+      "10857 Campaign Ct, Manassas, VA, 20109",
+      "12217 Arabian Pl, Woodbridge, VA, 22192"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fairfaxrealestate",
+    "broker_simplified": "EXP"
+  },
+  {
+    "first_name": "Lauryn",
+    "full_name": "Lauryn Eadie",
+    "broker": "Real Broker LLC",
+    "yearly_sales": 63,
+    "total_sales": 884,
+    "average_price": 651000,
+    "last_two_listings": [
+      "11412 Purple Beech Dr, Reston, VA, 20191",
+      "2190 Glencourse Ln, Reston, VA, 20191"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lauryneadie",
+    "broker_simplified": "Real Broker"
+  },
+  {
+    "first_name": "KHALIL",
+    "full_name": "KHALIL EL-GHOUL",
+    "broker": "Glass House Real Estate",
+    "yearly_sales": 42,
+    "total_sales": 783,
+    "average_price": 995000,
+    "last_two_listings": [
+      "15707 Alderbrook Dr, Haymarket, VA, 20169",
+      "19884 Yellow Daisy Ter, Ashburn, VA, 20147"
+    ],
+    "linkedin": "https://www.linkedin.com/in/khalilknows",
+    "broker_simplified": "Glass House"
+  },
+  {
+    "first_name": "Nassia",
+    "full_name": "Nassia Asgill",
+    "broker": "Summit Realtors",
+    "yearly_sales": 3,
+    "total_sales": 17,
+    "average_price": 515000,
+    "last_two_listings": [
+      "8159 Shoal Creek Dr, Laurel, MD, 20724",
+      "4011 Sapling Way, Triangle, VA, 22172"
+    ],
+    "linkedin": "https://www.linkedin.com/in/connerhgrant",
+    "broker_simplified": "Summit"
+  },
+  {
+    "first_name": "Dinh",
+    "full_name": "Dinh Pham",
+    "broker": "Fairfax Realty Select",
+    "yearly_sales": 67,
+    "total_sales": 660,
+    "average_price": 565000,
+    "last_two_listings": [
+      "9111 Wax Myrtle Ct, Burke, VA, 22015",
+      "501 Slaters Ln APT 816, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/thegoodliferealtor",
+    "broker_simplified": "Fairfax"
+  },
+  {
+    "first_name": "Pat",
+    "full_name": "Pat Flynn",
+    "broker": "Flynn Realty Associates",
+    "yearly_sales": 50,
+    "total_sales": 927,
+    "average_price": 578000,
+    "last_two_listings": [
+      "374 Braeburn Dr, Martinsburg, WV, 25403",
+      "1001 N Randolph St APT 617, Arlington, VA, 22201"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nlkflyn",
+    "broker_simplified": "Flynn Realty"
+  },
+  {
+    "first_name": "Reynolds",
+    "full_name": "Reynolds EmpowerHome Team",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 552,
+    "total_sales": 6163,
+    "average_price": 567000,
+    "last_two_listings": [
+      "1513 Birchwood Dr, Oxon Hill, MD, 20745",
+      "7005 Woodstream Ln, Lanham, MD, 20706"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sarahreynolds1",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Nellis",
+    "full_name": "Nellis Group",
+    "broker": "The Nellis Group",
+    "yearly_sales": 73,
+    "total_sales": 1121,
+    "average_price": 659000,
+    "last_two_listings": [
+      "8181 Rainwater Cir, Manassas, VA, 20111",
+      "4619 Evansdale Rd, Woodbridge, VA, 22193"
+    ],
+    "linkedin": "https://www.linkedin.com/in/james-nellis-ii-2808205",
+    "broker_simplified": "Nellis Group"
+  },
+  {
+    "first_name": "Bruce",
+    "full_name": "Bruce Tyburski",
+    "broker": "Bruce & Team",
+    "yearly_sales": 17,
+    "total_sales": 2516,
+    "average_price": 816000,
+    "last_two_listings": [
+      "4404 Vermont Ave, Alexandria, VA, 22304",
+      "46207 Woodpecker Sq, Sterling, VA, 20165"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bruce-tyburski-4487a22a2",
+    "broker_simplified": "Bruce and Team"
+  },
+  {
+    "first_name": "Betsy",
+    "full_name": "Betsy Voegtlin",
+    "broker": "eXp Realty",
+    "yearly_sales": 11,
+    "total_sales": 284,
+    "average_price": 885000,
+    "last_two_listings": [
+      "4304 Johnson Ct, Fairfax, VA, 22030",
+      "8895 Winding Hollow Way, Springfield, VA, 22152"
+    ],
+    "linkedin": "https://www.linkedin.com/in/betsyvoegtlin",
+    "broker_simplified": "Exp Realty"
+  },
+  {
+    "first_name": "Joe",
+    "full_name": "Joe Grzesiak",
+    "broker": "RE/MAX Real Estate Connections",
+    "yearly_sales": 11,
+    "total_sales": 176,
+    "average_price": 693000,
+    "last_two_listings": [
+      "13462 Gray Valley Ct, Centreville, VA, 20120",
+      "6829 William White Way, Haymarket, VA, 20169"
+    ],
+    "linkedin": "https://www.linkedin.com/in/gaby-grzesiak-4a4bb822",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Zinta",
+    "full_name": "Zinta Rodgers - Rickert",
+    "broker": "\"Zinta & Rob\"  RE/MAX GATEWAY  dba  Red Truck Realty Group",
+    "yearly_sales": 13,
+    "total_sales": 716,
+    "average_price": 710000,
+    "last_two_listings": [
+      "1001 N Vermont St APT 702, Arlington, VA, 22201",
+      "9735 Kings Crown Ct APT 202, Fairfax, VA, 22031"
+    ],
+    "linkedin": null,
+    "broker_simplified": "ReMax"
+  },
+  {
+    "first_name": "Charlet",
+    "full_name": "Charlet Shriner",
+    "broker": "Re/max Gateway",
+    "yearly_sales": 25,
+    "total_sales": 593,
+    "average_price": 641000,
+    "last_two_listings": [
+      "3848 Farrcroft Grn, Fairfax, VA, 22030",
+      "6705 Bay Valley Ln, Centreville, VA, 20121"
+    ],
+    "linkedin": "https://www.linkedin.com/in/charlet-shriner-6b077833",
+    "broker_simplified": "Re/Max"
+  },
+  {
+    "first_name": "Nate",
+    "full_name": "Nate Shapiro",
+    "broker": "Long and Foster",
+    "yearly_sales": 22,
+    "total_sales": 423,
+    "average_price": 516000,
+    "last_two_listings": [
+      "3306 Wyndham Cres #325, Alexandria, VA, 22302",
+      "8335 Wagon Wheel Rd, Alexandria, VA, 22309"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nate-shapiro",
+    "broker_simplified": "Long and Foster"
+  },
+  {
+    "first_name": "Andrew",
+    "full_name": "Andrew Reamer",
+    "broker": "RE/MAX Distinctive Real Estate, Inc",
+    "yearly_sales": 215,
+    "total_sales": 1433,
+    "average_price": 834000,
+    "last_two_listings": [
+      "238 Pickette Ave, Inwood, WV, 25428",
+      "26 Squire Cir, Inwood, WV, 25428"
+    ],
+    "linkedin": "https://www.linkedin.com/in/andrew-reamer-9494734",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Megan",
+    "full_name": "Megan Fass FASS Results Group",
+    "broker": "FASS Results brokered by eXp Realty",
+    "yearly_sales": 53,
+    "total_sales": 788,
+    "average_price": 976000,
+    "last_two_listings": [
+      "7804 Birnam Wood Dr, Mc Lean, VA, 22102",
+      "3630 Valley Dr, Alexandria, VA, 22302"
+    ],
+    "linkedin": "https://www.linkedin.com/in/realtormegan",
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Judy",
+    "full_name": "Judy Wonus",
+    "broker": "RE/MAX Allegiance",
+    "yearly_sales": 2,
+    "total_sales": 340,
+    "average_price": 1000000,
+    "last_two_listings": [
+      "3803 Latrobe Ct, Fairfax, VA, 22031",
+      "3907 Sandalwood Ct, Fairfax, VA, 22031"
+    ],
+    "linkedin": "https://www.linkedin.com/in/judy-wonus-05560214",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Darren",
+    "full_name": "Darren Robertson",
+    "broker": "Samson Properties",
+    "yearly_sales": 39,
+    "total_sales": 506,
+    "average_price": 556000,
+    "last_two_listings": [
+      "5483 Rodriquez Ln, Haymarket, VA, 20169",
+      "7709 Camp Alger Ave, Falls Church, VA, 22042"
+    ],
+    "linkedin": "https://www.linkedin.com/in/darrenerobertson",
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Vie",
+    "full_name": "Vie Nguyen",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 14,
+    "total_sales": 115,
+    "average_price": 699000,
+    "last_two_listings": [
+      "5410 Connecticut Ave NW APT 512, Washington, DC, 20015",
+      "3284 Tayloe Ct, Herndon, VA, 20171"
+    ],
+    "linkedin": "https://www.linkedin.com/in/vnguyen27",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Damon",
+    "full_name": "Damon Nicholas and DamonSellsHomes Team",
+    "broker": "eXp Realty",
+    "yearly_sales": 61,
+    "total_sales": 1662,
+    "average_price": 741000,
+    "last_two_listings": [
+      "2343 S Queen St, Arlington, VA, 22202",
+      "3314 Wrenn House Ct, Herndon, VA, 20171"
+    ],
+    "linkedin": null,
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Kevin",
+    "full_name": "Kevin King",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 2,
+    "total_sales": 194,
+    "average_price": 757000,
+    "last_two_listings": [
+      "5643 Harrington Falls Ln UNIT C, Alexandria, VA, 22312",
+      "3251 Decourcey Ct, Annandale, VA, 22003"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kevin-king-8b38a214",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Roberto",
+    "full_name": "Roberto Roncales",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 74,
+    "total_sales": 337,
+    "average_price": 717000,
+    "last_two_listings": [
+      "15570 Badger Meadows Way, Spotsylvania, VA, 22551",
+      "906 S Washington St APT 306, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/roberto-r-roncales-299b8887",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Terry",
+    "full_name": "Terry Belt and The Belt Team",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 1,
+    "total_sales": 245,
+    "average_price": 959000,
+    "last_two_listings": [
+      "5002 Pylers Mill Ct, Fairfax, VA, 22032",
+      "2393 Southgate Sq, Reston, VA, 20191"
+    ],
+    "linkedin": "https://www.linkedin.com/in/terrybelt",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Sharat",
+    "full_name": "Sharat Ahuja",
+    "broker": "Terra Firma Group",
+    "yearly_sales": 24,
+    "total_sales": 247,
+    "average_price": 1100000,
+    "last_two_listings": [
+      "7605 Leesburg Dr, Bethesda, MD, 20817",
+      "12933 Oak Lawn Pl, Herndon, VA, 20171"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sharatahuja",
+    "broker_simplified": "Terra Firma"
+  },
+  {
+    "first_name": "Elizabeth",
+    "full_name": "Elizabeth Sachero-Perez",
+    "broker": "Long and Foster",
+    "yearly_sales": 4,
+    "total_sales": 109,
+    "average_price": 606000,
+    "last_two_listings": [
+      "11200 Reston Station Blvd #205, Reston, VA, 20190",
+      "10191 Valentino Dr, Oakton, VA, 22124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/elizabethsacheroperezrealtor",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "Mike",
+    "full_name": "Mike Rosen",
+    "broker": "Provident Team Real Estate",
+    "yearly_sales": 8,
+    "total_sales": 326,
+    "average_price": 925000,
+    "last_two_listings": [
+      "23130 Expedition Dr, Ashburn, VA, 20148",
+      "16720 Sommertime Ln, Hamilton, VA, 20158"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mikerosen",
+    "broker_simplified": "Provident"
+  },
+  {
+    "first_name": "Nate",
+    "full_name": "Nate Johnson",
+    "broker": "12:45 Team",
+    "yearly_sales": 68,
+    "total_sales": 866,
+    "average_price": 507000,
+    "last_two_listings": [
+      "7397 Cedar Fork Rd, Ruther Glen, VA, 22546",
+      "15053 Greenmount Dr, Woodbridge, VA, 22193"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nathanfjohnson25",
+    "broker_simplified": "12:45"
+  },
+  {
+    "first_name": "Brendan",
+    "full_name": "Brendan Reals",
+    "broker": "Debbie Dogrul Associates, brokered by eXp Realty",
+    "yearly_sales": 0,
+    "total_sales": 16,
+    "average_price": 727000,
+    "last_two_listings": [
+      "2105 N George Mason Dr, Arlington, VA, 22207",
+      "15206 Rosemont Manor Dr, Haymarket, VA, 20169"
+    ],
+    "linkedin": "https://www.linkedin.com/in/brendan-reals-7116921a",
+    "broker_simplified": "eXp Realty"
+  },
+  {
+    "first_name": "Gift",
+    "full_name": "Gift Thongpia Hughes",
+    "broker": "Keller Williams",
+    "yearly_sales": 16,
+    "total_sales": 305,
+    "average_price": 583000,
+    "last_two_listings": [
+      "3109 Pebble Hill Ln, Fairfax, VA, 22031",
+      "10300 Roland Ln, Fort Washington, MD, 20744"
+    ],
+    "linkedin": "https://www.linkedin.com/in/giftthongpiahughesrealtor",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Heidi",
+    "full_name": "Heidi Swenson",
+    "broker": "Samson Properties",
+    "yearly_sales": 8,
+    "total_sales": 112,
+    "average_price": 477000,
+    "last_two_listings": [
+      "9278 Cardinal Forest Ln UNIT 301, Lorton, VA, 22079",
+      "1021 Arlington Blvd APT 626, Arlington, VA, 22209"
+    ],
+    "linkedin": "https://www.linkedin.com/in/heidiswenson",
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Kim",
+    "full_name": "Kim Darwaza",
+    "broker": "RE/MAX Executives",
+    "yearly_sales": 15,
+    "total_sales": 346,
+    "average_price": 696000,
+    "last_two_listings": [
+      "3912 Gallows Rd, Annandale, VA, 22003",
+      "3807 Ruben Simpson Ct, Fairfax, VA, 22033"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kimdarwazarealtor",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Richie",
+    "full_name": "Richie Hanna",
+    "broker": "Re/Max Gateway ",
+    "yearly_sales": 25,
+    "total_sales": 224,
+    "average_price": 698000,
+    "last_two_listings": [
+      "178 Martin Ln, Alexandria, VA, 22304",
+      "8629 Curtis Ave, Alexandria, VA, 22309"
+    ],
+    "linkedin": "https://www.linkedin.com/in/richiehannajr",
+    "broker_simplified": "Re/Max"
+  },
+  {
+    "first_name": "Sean",
+    "full_name": "Sean Ragen",
+    "broker": "Dutko | Ragen Homes & Investments",
+    "yearly_sales": 49,
+    "total_sales": 404,
+    "average_price": 836000,
+    "last_two_listings": [
+      "4307 Selkirk Dr, Fairfax, VA, 22032",
+      "8106 Drayton Ln, Springfield, VA, 22151"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sean-ragen-4592795",
+    "broker_simplified": "Dutko"
+  },
+  {
+    "first_name": "Mickey",
+    "full_name": "Mickey Glassman",
+    "broker": "RE/MAX Premier",
+    "yearly_sales": 0,
+    "total_sales": 951,
+    "average_price": 540000,
+    "last_two_listings": [
+      "11990 Market St UNIT 1203, Reston, VA, 20190",
+      "12025 New Dominion Pkwy APT 301, Reston, VA, 20190"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mickeyglassman",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Cathy",
+    "full_name": "Cathy Zamanpour",
+    "broker": "Long & Foster",
+    "yearly_sales": 1,
+    "total_sales": 167,
+    "average_price": 490000,
+    "last_two_listings": [
+      "11812 Eton Manor Dr APT 102, Germantown, MD, 20876",
+      "7231 Annapolis Rock Rd, Damascus, MD, 20872"
+    ],
+    "linkedin": "https://www.linkedin.com/in/cathy-zamanpour-332b7512",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "Danny",
+    "full_name": "Danny Lee",
+    "broker": "Samson Properties",
+    "yearly_sales": 17,
+    "total_sales": 99,
+    "average_price": 767000,
+    "last_two_listings": [
+      "3215 Nestlewood Dr, Herndon, VA, 20171",
+      "11506 Sperrin Cir UNIT 404, Fairfax, VA, 22030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/donnysamson",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Jack",
+    "full_name": "Jack Goodwyn",
+    "broker": "Rockwood Homes & Investments,  Samson Properties",
+    "yearly_sales": 42,
+    "total_sales": 309,
+    "average_price": 597000,
+    "last_two_listings": [
+      "3152 Covewood Ct #3152M, Falls Church, VA, 22042",
+      "10302 N Hampton Ln, Fredericksburg, VA, 22408"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jack-goodwyn-00665654",
+    "broker_simplified": "Rockwood Homes, Samson Properties"
+  },
+  {
+    "first_name": "Jin",
+    "full_name": "Jin Kim",
+    "broker": "Samson Properties",
+    "yearly_sales": 11,
+    "total_sales": 68,
+    "average_price": 752000,
+    "last_two_listings": [
+      "8860 Englewood Farms Dr, Manassas, VA, 20112",
+      "12428 Liberty Bridge Rd SUITE 12428A, Fairfax, VA, 22033"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jinkimrealtor",
+    "broker_simplified": "Samson Props"
+  },
+  {
+    "first_name": "Peter",
+    "full_name": "Peter Locke",
+    "broker": "Century 21 Redwood Realty",
+    "yearly_sales": 2,
+    "total_sales": 108,
+    "average_price": 696000,
+    "last_two_listings": [
+      "9201 Bayard Pl, Fairfax, VA, 22032",
+      "411 Mill St SE, Vienna, VA, 22180"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Century 21"
+  },
+  {
+    "first_name": "Ryan",
+    "full_name": "Ryan Rice",
+    "broker": "Keller Williams Capital Properties",
+    "yearly_sales": 43,
+    "total_sales": 213,
+    "average_price": 738000,
+    "last_two_listings": [
+      "7399 Beachplum Dr, Fairfax Station, VA, 22039",
+      "10910 Mission Ridge Dr, Manassas, VA, 20109"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ricepropertiesgroup",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Anna",
+    "full_name": "Anna Parsapour",
+    "broker": "Anna Parsapour",
+    "yearly_sales": 11,
+    "total_sales": 265,
+    "average_price": 651000,
+    "last_two_listings": [
+      "10289 Butternut Cir, Manassas, VA, 20110",
+      "923 Riva Ridge Dr, Great Falls, VA, 22066"
+    ],
+    "linkedin": "https://www.linkedin.com/in/annaparsapour",
+    "broker_simplified": "Cantor Fitzgerald"
+  },
+  {
+    "first_name": "Danielle",
+    "full_name": "Danielle Feder",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 11,
+    "total_sales": 159,
+    "average_price": 737000,
+    "last_two_listings": [
+      "112 Monticello Cir, Locust Grove, VA, 22508",
+      "5545 Snow Mountain Rd, Broad Run, VA, 20137"
+    ],
+    "linkedin": "https://www.linkedin.com/in/daniellefeder",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Theresa",
+    "full_name": "Theresa Kim",
+    "broker": "RE/MAX ALLEGIANCE",
+    "yearly_sales": 1,
+    "total_sales": 293,
+    "average_price": 754000,
+    "last_two_listings": [
+      "2665 Prosperity Ave APT 256, Fairfax, VA, 22031",
+      "516 Lynchburg Ter NE, Leesburg, VA, 20176"
+    ],
+    "linkedin": "https://www.linkedin.com/in/theresa-kim-087b7214",
+    "broker_simplified": "ReMax"
+  },
+  {
+    "first_name": "Jessie",
+    "full_name": "Jessie Devamithran",
+    "broker": "Keller Williams Fairfax Gateway",
+    "yearly_sales": 7,
+    "total_sales": 131,
+    "average_price": 667000,
+    "last_two_listings": [
+      "6621 Wakefield Dr APT 411, Alexandria, VA, 22307",
+      "9996 Hemlock Woods Ln, Burke, VA, 22015"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mithrangroup",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Judi",
+    "full_name": "Judi LaMorte",
+    "broker": "LongandFoster Realtos",
+    "yearly_sales": 0,
+    "total_sales": 40,
+    "average_price": 0,
+    "last_two_listings": [
+      "3844 Farrcroft Grn, Fairfax, VA, 22030",
+      "8624 Pappas Way, Annandale, VA, 22003"
+    ],
+    "linkedin": "https://www.linkedin.com/in/judi-lamorte-b4a64812",
+    "broker_simplified": "Long and Foster"
+  },
+  {
+    "first_name": "Krissy",
+    "full_name": "Krissy Cruse",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 45,
+    "total_sales": 454,
+    "average_price": 549000,
+    "last_two_listings": [
+      "14308 Grackle Ct, Gainesville, VA, 20155",
+      "1802 Summit Dr, Haymarket, VA, 20169"
+    ],
+    "linkedin": "https://www.linkedin.com/in/krissycruse",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Traci",
+    "full_name": "Traci Oliver",
+    "broker": "Long & Foster Real Estate",
+    "yearly_sales": 27,
+    "total_sales": 392,
+    "average_price": 807000,
+    "last_two_listings": [
+      "18507 Cattail Spring Dr, Leesburg, VA, 20176",
+      "12905 Centre Park Cir APT 307, Herndon, VA, 20171"
+    ],
+    "linkedin": "https://www.linkedin.com/in/traci-oliver-b1416b4",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "William",
+    "full_name": "William Close Group",
+    "broker": "KW Metro Center - Old Town Alexandria",
+    "yearly_sales": 325,
+    "total_sales": 1910,
+    "average_price": 488000,
+    "last_two_listings": [
+      "6034 Cedar Post Dr, District Heights, MD, 20747",
+      "7903 General Maxwell Dr, Brandywine, MD, 20613"
+    ],
+    "linkedin": null,
+    "broker_simplified": "KW"
+  },
+  {
+    "first_name": "Mollaan",
+    "full_name": "Mollaan Babbington Group",
+    "broker": "COMPASS",
+    "yearly_sales": 261,
+    "total_sales": 2335,
+    "average_price": 747000,
+    "last_two_listings": [
+      "1636 Independence Ave SE, Washington, DC, 20003",
+      "3620 Connecticut Ave NW APT 44, Washington, DC, 20008"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sinamollaan",
+    "broker_simplified": "Compass"
+  },
+  {
+    "first_name": "Mary",
+    "full_name": "Mary Thyfault Clark",
+    "broker": "Mary Thyfault Clark",
+    "yearly_sales": 0,
+    "total_sales": 189,
+    "average_price": 0,
+    "last_two_listings": [
+      "5204 Lonsdale Dr, Springfield, VA, 22151",
+      "205 Pennsylvania Ave, Falls Church, VA, 22046"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mary-clark-5a194710a",
+    "broker_simplified": "Raymond James"
+  },
+  {
+    "first_name": "Page",
+    "full_name": "Page Blankingship",
+    "broker": "Page Blankingship",
+    "yearly_sales": 11,
+    "total_sales": 231,
+    "average_price": 784000,
+    "last_two_listings": [
+      "12322 Field Lark Ct, Fairfax, VA, 22033",
+      "3110 Northwood Rd, Fairfax, VA, 22031"
+    ],
+    "linkedin": "https://www.linkedin.com/in/page-blankingship-65879b9",
+    "broker_simplified": "Blankingship & Keith"
+  },
+  {
+    "first_name": "Cathy",
+    "full_name": "Cathy Poungmalai - Top Agent",
+    "broker": "EXP Realty",
+    "yearly_sales": 32,
+    "total_sales": 587,
+    "average_price": 768000,
+    "last_two_listings": [
+      "6024 Harnsberger Barn Ct, Manassas, VA, 20112",
+      "13686 Hiddenhollow Ln, Leesburg, VA, 20176"
+    ],
+    "linkedin": "https://www.linkedin.com/in/cathypoungmalai",
+    "broker_simplified": "EXP"
+  },
+  {
+    "first_name": "Kim",
+    "full_name": "Kim Barber",
+    "broker": "eXp Realty",
+    "yearly_sales": 31,
+    "total_sales": 565,
+    "average_price": 522000,
+    "last_two_listings": [
+      "611 Maddex Farm Dr, Shepherdstown, WV, 25443",
+      "175 Truth Way, Martinsburg, WV, 25405"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kimbarberva",
+    "broker_simplified": "EXP"
+  },
+  {
+    "first_name": "Properties",
+    "full_name": "Properties and Estates",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 497,
+    "total_sales": 1140,
+    "average_price": 634000,
+    "last_two_listings": [
+      "9486 Virginia Center Blvd UNIT 201, Vienna, VA, 22181",
+      "1970 Roland Clarke Pl, Reston, VA, 20191"
+    ],
+    "linkedin": "https://www.linkedin.com/in/lyndsey-smith-4b607136",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Alex",
+    "full_name": "Alex Bracke",
+    "broker": "Valor Group at REAL Broker LLC",
+    "yearly_sales": 27,
+    "total_sales": 512,
+    "average_price": 652000,
+    "last_two_listings": [
+      "43976 Bonlee Sq, Ashburn, VA, 20147",
+      "214 Walker St, Winchester, VA, 22601"
+    ],
+    "linkedin": "https://www.linkedin.com/in/abracke",
+    "broker_simplified": "RealBroker"
+  },
+  {
+    "first_name": "Ali",
+    "full_name": "Ali Daneshzadeh",
+    "broker": "Samson Properties",
+    "yearly_sales": 50,
+    "total_sales": 506,
+    "average_price": 569000,
+    "last_two_listings": [
+      "11510 Leehigh Dr, Fairfax, VA, 22030",
+      "820-820A S Washington St #228, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ali-daneshzadeh-0a201a77",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Ed",
+    "full_name": "Ed Lang",
+    "broker": "ReMax Executives",
+    "yearly_sales": 14,
+    "total_sales": 1091,
+    "average_price": 566000,
+    "last_two_listings": [
+      "8202 Heritage Crossing Ct, Manassas, VA, 20109",
+      "4025 Novar Dr, Chantilly, VA, 20151"
+    ],
+    "linkedin": "https://www.linkedin.com/in/edlangteam",
+    "broker_simplified": "ReMax"
+  },
+  {
+    "first_name": "George",
+    "full_name": "George M. Mrad",
+    "broker": "Red Door Metro of Keller Williams Realty",
+    "yearly_sales": 22,
+    "total_sales": 195,
+    "average_price": 1300000,
+    "last_two_listings": [
+      "5750 Bou Ave UNIT 1710, Rockville, MD, 20852",
+      "913 Symphony Cir SW, Vienna, VA, 22180"
+    ],
+    "linkedin": "https://www.linkedin.com/in/georgemrad",
+    "broker_simplified": "Red Door Metro"
+  },
+  {
+    "first_name": "Jaenho",
+    "full_name": "Jaenho Oh",
+    "broker": "eXp Realty",
+    "yearly_sales": 8,
+    "total_sales": 192,
+    "average_price": 724000,
+    "last_two_listings": [
+      "25952 Priesters Pond Dr, Chantilly, VA, 20152",
+      "13947 Baton Rouge Ct, Centreville, VA, 20121"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jaenho-oh-64a56b1b",
+    "broker_simplified": "Xp"
+  },
+  {
+    "first_name": "Jessica",
+    "full_name": "Jessica Chong",
+    "broker": "Re/max Real Estate Connections",
+    "yearly_sales": 10,
+    "total_sales": 177,
+    "average_price": 633000,
+    "last_two_listings": [
+      "4428 Field Gate Ln, Chantilly, VA, 20151",
+      "5196 Glen Meadow Dr, Centreville, VA, 20120"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jessica-chong-a6101510",
+    "broker_simplified": "ReMax"
+  },
+  {
+    "first_name": "Julie",
+    "full_name": "Julie A. Sapone",
+    "broker": "Keller Williams Fairfax Gateway",
+    "yearly_sales": 1,
+    "total_sales": 63,
+    "average_price": 747000,
+    "last_two_listings": [
+      "134 Coachman Cir, Stafford, VA, 22554",
+      "4490 Lateleaf Trl, Fairfax, VA, 22030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/julie-a-sapone-7a47282b",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Kathy",
+    "full_name": "Kathy Sparks",
+    "broker": "Samson Properties",
+    "yearly_sales": 3,
+    "total_sales": 175,
+    "average_price": 542000,
+    "last_two_listings": [
+      "12401 Dorforth Dr, Fairfax, VA, 22033",
+      "4447 Fair Stone Dr APT 203, Fairfax, VA, 22033"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kathysparks",
+    "broker_simplified": "Samson Properties"
+  },
+  {
+    "first_name": "PJ",
+    "full_name": "PJ Sikand",
+    "broker": "The PJ Team",
+    "yearly_sales": 10,
+    "total_sales": 195,
+    "average_price": 1000000,
+    "last_two_listings": [
+      "43783 Orchid Dove Ter, Ashburn, VA, 20147",
+      "5844 Orchard Hill Ct #5844, Clifton, VA, 20124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/pj-sikand-3b216932",
+    "broker_simplified": "PJ Soles Team"
+  },
+  {
+    "first_name": "Priscilla",
+    "full_name": "Priscilla Kim",
+    "broker": "Priscilla Kim Homes - Samson Properties",
+    "yearly_sales": 2,
+    "total_sales": 68,
+    "average_price": 714000,
+    "last_two_listings": [
+      "14821 Hunting Path Pl, Centreville, VA, 20120",
+      "25544 Heyer Sq, Chantilly, VA, 20152"
+    ],
+    "linkedin": "https://www.linkedin.com/in/priscillaparkkim",
+    "broker_simplified": "Kim Homes or Samson Properties"
+  },
+  {
+    "first_name": "Treasury",
+    "full_name": "Treasury Homes",
+    "broker": "COMPASS",
+    "yearly_sales": 76,
+    "total_sales": 590,
+    "average_price": 668000,
+    "last_two_listings": [
+      "2423 I St NW, Washington, DC, 20037",
+      "1745 N St NW UNIT 111, Washington, DC, 20036"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jessjoybauer",
+    "broker_simplified": "Compass"
+  },
+  {
+    "first_name": "Kristin",
+    "full_name": "Kristin Stone, MBA",
+    "broker": "Home Happy Group - Samson Properties",
+    "yearly_sales": 0,
+    "total_sales": 344,
+    "average_price": 502000,
+    "last_two_listings": [
+      "209 Kimblewick Dr, Silver Spring, MD, 20904",
+      "7430 Pohick Rd, Lorton, VA, 22079"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kristinoenstone",
+    "broker_simplified": "HomeHappy"
+  },
+  {
+    "first_name": "Laura",
+    "full_name": "Laura Schwartz",
+    "broker": "McEnearney Associates Inc",
+    "yearly_sales": 39,
+    "total_sales": 430,
+    "average_price": 1000000,
+    "last_two_listings": [
+      "13110 Shadowbrook Ln, Fairfax, VA, 22033",
+      "10413 Samaga Dr, Oakton, VA, 22124"
+    ],
+    "linkedin": "https://www.linkedin.com/in/laurarubinchuk",
+    "broker_simplified": "McEnearney Associates"
+  },
+  {
+    "first_name": "Paula",
+    "full_name": "Paula Stewart",
+    "broker": "Weichert Realtors",
+    "yearly_sales": 4,
+    "total_sales": 187,
+    "average_price": 787000,
+    "last_two_listings": [
+      "2029 Winged Foot Ct, Reston, VA, 20191",
+      "11300 Oakhurst Ln, Woodbridge, VA, 22192"
+    ],
+    "linkedin": "https://www.linkedin.com/in/paula-stewart-445990a2",
+    "broker_simplified": "Weichert"
+  },
+  {
+    "first_name": "DESIREE",
+    "full_name": "DESIREE REJEILI Desiree Sells Homes LLC (Powered by Samson Properties)",
+    "broker": "Samson Properties",
+    "yearly_sales": 14,
+    "total_sales": 327,
+    "average_price": 581000,
+    "last_two_listings": [
+      "44691 Wellfleet Dr UNIT 205, Ashburn, VA, 20147",
+      "315 Tudor Dr, Winchester, VA, 22603"
+    ],
+    "linkedin": "https://www.linkedin.com/in/desiree-rejeili-desireesellshomes",
+    "broker_simplified": "Samson Properties"
+  },
+  {
+    "first_name": "Kelly",
+    "full_name": "Kelly Krolikowski",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 11,
+    "total_sales": 33,
+    "average_price": 693000,
+    "last_two_listings": [
+      "4210 Allison Cir, Fairfax, VA, 22030",
+      "12137 Westwood Hills Dr, Herndon, VA, 20171"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kelly-murphy-krolikowski-bb4588108",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Amy",
+    "full_name": "Amy O'Rourke",
+    "broker": "Compass",
+    "yearly_sales": 19,
+    "total_sales": 146,
+    "average_price": 942000,
+    "last_two_listings": [
+      "13105 Anvil Pl, Herndon, VA, 20171",
+      "3601 Lamplight Dr, Fairfax, VA, 22033"
+    ],
+    "linkedin": "https://www.linkedin.com/in/amy-o-rourke-754aa0109",
+    "broker_simplified": "Compass"
+  },
+  {
+    "first_name": "Ashley",
+    "full_name": "Ashley O'Brien",
+    "broker": "RE/MAX Allegiance",
+    "yearly_sales": 14,
+    "total_sales": 348,
+    "average_price": 555000,
+    "last_two_listings": [
+      "5412 Flint Tavern Pl, Burke, VA, 22015",
+      "8803 Cuttermill Pl, Springfield, VA, 22153"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ashley-o-brien-29b9881",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Bill",
+    "full_name": "Bill Davis",
+    "broker": "Century 21 New Millennium",
+    "yearly_sales": 15,
+    "total_sales": 2979,
+    "average_price": 859000,
+    "last_two_listings": [
+      "37269 Seabiscuit Park Pl, Middleburg, VA, 20117",
+      "3028 Southern Elm Ct, Fairfax, VA, 22031"
+    ],
+    "linkedin": "https://www.linkedin.com/in/billdavisteam",
+    "broker_simplified": "Century 21"
+  },
+  {
+    "first_name": "Bill",
+    "full_name": "Bill Hoffman",
+    "broker": "KW Luxury Homes International",
+    "yearly_sales": 15,
+    "total_sales": 176,
+    "average_price": 1600000,
+    "last_two_listings": [
+      "3808 N Albemarle St, Arlington, VA, 22207",
+      "2615 Lemontree Ln, Vienna, VA, 22181"
+    ],
+    "linkedin": "https://www.linkedin.com/in/bill-hoffman-b4068518",
+    "broker_simplified": "KW"
+  },
+  {
+    "first_name": "Bradley",
+    "full_name": "Bradley Meletti",
+    "broker": "Samson Properties",
+    "yearly_sales": 14,
+    "total_sales": 106,
+    "average_price": 679000,
+    "last_two_listings": [
+      "20393 Tholen St, Ashburn, VA, 20147",
+      "517 Fortress Cir SE, Leesburg, VA, 20175"
+    ],
+    "linkedin": "https://www.linkedin.com/in/melanie-davis-831663121",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Dinora",
+    "full_name": "Dinora Chacon",
+    "broker": "REAL Brokerage",
+    "yearly_sales": 20,
+    "total_sales": 147,
+    "average_price": 573000,
+    "last_two_listings": [
+      "45774 Mountain Pine Sq, Sterling, VA, 20166",
+      "24701 Byrne Meadow Sq APT 112, Aldie, VA, 20105"
+    ],
+    "linkedin": "https://www.linkedin.com/in/dinorachacon",
+    "broker_simplified": "REAL"
+  },
+  {
+    "first_name": "Ehab",
+    "full_name": "Ehab Hennawi",
+    "broker": "Coldwell Banker Realty",
+    "yearly_sales": 11,
+    "total_sales": 121,
+    "average_price": 568000,
+    "last_two_listings": [
+      "5570 Hecate Ct, Fairfax, VA, 22032",
+      "43245 Clearnight Ter, Ashburn, VA, 20147"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Coldwell"
+  },
+  {
+    "first_name": "Ellen",
+    "full_name": "Ellen McRae",
+    "broker": "Samson Properties",
+    "yearly_sales": 5,
+    "total_sales": 205,
+    "average_price": 714000,
+    "last_two_listings": [
+      "8214 Bucknell Dr, Vienna, VA, 22180",
+      "412 Princess St, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ellen-mcrae-75554b9",
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Monique",
+    "full_name": "Monique Craft",
+    "broker": "Weichert, Realtors",
+    "yearly_sales": 19,
+    "total_sales": 284,
+    "average_price": 603000,
+    "last_two_listings": [
+      "2300 Pimmit Dr APT 1004, Falls Church, VA, 22043",
+      "8318 Kingsgate Rd SUITE 545, Springfield, VA, 22152"
+    ],
+    "linkedin": "https://www.linkedin.com/in/monique-craft-08826018",
+    "broker_simplified": "Weichert"
+  },
+  {
+    "first_name": "Nazneen",
+    "full_name": "Nazneen Kavarana",
+    "broker": "Long and Foster",
+    "yearly_sales": 7,
+    "total_sales": 27,
+    "average_price": 794000,
+    "last_two_listings": [
+      "10111 Cavalry Dr, Fairfax, VA, 22030",
+      "7202 Deborah Dr, Falls Church, VA, 22046"
+    ],
+    "linkedin": "https://www.linkedin.com/in/nazneen-kavarana-529b5125",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "Nicole",
+    "full_name": "Nicole Dash",
+    "broker": "Debbie Dogrul Associates, LLC",
+    "yearly_sales": 34,
+    "total_sales": 89,
+    "average_price": 694000,
+    "last_two_listings": [
+      "4115 Hemingway Dr, Woodbridge, VA, 22193",
+      "6821 Floyd Ave, Springfield, VA, 22150"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Debbie Dogrul"
+  },
+  {
+    "first_name": "Rob",
+    "full_name": "Rob Traister",
+    "broker": "RE/MAX Realty Group 100",
+    "yearly_sales": 12,
+    "total_sales": 130,
+    "average_price": 521000,
+    "last_two_listings": [
+      "103 Irving Ave N #403, Colonial Beach, VA, 22443",
+      "2546 Brenton Point Dr, Reston, VA, 20191"
+    ],
+    "linkedin": "https://www.linkedin.com/in/robtraister",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Sima",
+    "full_name": "Sima Farid",
+    "broker": "Pearson Smith Realty",
+    "yearly_sales": 8,
+    "total_sales": 92,
+    "average_price": 623000,
+    "last_two_listings": [
+      "3012 Manning St, Alexandria, VA, 22305",
+      "1437 Powhatan St, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sima-farid-68b11a7",
+    "broker_simplified": "Pearson Smith"
+  },
+  {
+    "first_name": "Vantage",
+    "full_name": "Vantage Realty Group",
+    "broker": "Compass",
+    "yearly_sales": 0,
+    "total_sales": 569,
+    "average_price": 652000,
+    "last_two_listings": [
+      "9 Aviator Ln, Castleton, VA, 22716",
+      "212 E Nelson Ave, Alexandria, VA, 22301"
+    ],
+    "linkedin": "https://www.linkedin.com/in/marymacpherson",
+    "broker_simplified": "Compass"
+  },
+  {
+    "first_name": "Lisa",
+    "full_name": "Lisa Angelia Wijaya",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 2,
+    "total_sales": 99,
+    "average_price": 555000,
+    "last_two_listings": [
+      "12106 Greenway Ct APT 102, Fairfax, VA, 22033",
+      "2237 Castle Rock Sq APT 1B, Reston, VA, 20191"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Peyton",
+    "full_name": "Peyton Bowman",
+    "broker": "Debbie Dogrul Associates brokered by eXp Realty",
+    "yearly_sales": 1,
+    "total_sales": 28,
+    "average_price": 802000,
+    "last_two_listings": [
+      "11626 Deer Forest Rd, Reston, VA, 20194",
+      "42867 Chesterton St, Ashburn, VA, 20147"
+    ],
+    "linkedin": "https://www.linkedin.com/in/peyton-bowman-39170154",
+    "broker_simplified": "eXp Realty"
+  },
+  {
+    "first_name": "Jeff",
+    "full_name": "Jeff Wu",
+    "broker": "Keller Williams Capital Properties",
+    "yearly_sales": 24,
+    "total_sales": 396,
+    "average_price": 618000,
+    "last_two_listings": [
+      "8722 Farnham Way, Bristow, VA, 20136",
+      "9828 Faust Dr, Vienna, VA, 22182"
+    ],
+    "linkedin": "https://www.linkedin.com/in/jeffwurealtor",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Teresa",
+    "full_name": "Teresa Bosch",
+    "broker": "Long & Foster Realtors",
+    "yearly_sales": 6,
+    "total_sales": 195,
+    "average_price": 974000,
+    "last_two_listings": [
+      "3421 Beechcraft Dr, Alexandria, VA, 22306",
+      "6614 Elk Park Ct, Alexandria, VA, 22310"
+    ],
+    "linkedin": "https://www.linkedin.com/in/teresa-bosch-a5a06483",
+    "broker_simplified": "Long and Foster"
+  },
+  {
+    "first_name": "Ian",
+    "full_name": "Ian McVeigh - The Redstone Group",
+    "broker": "Samson Properties",
+    "yearly_sales": 34,
+    "total_sales": 1091,
+    "average_price": 810000,
+    "last_two_listings": [
+      "15595 Horseshoe Ln #595, Woodbridge, VA, 22191",
+      "13107 Kumar Rd, Woodbridge, VA, 22193"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ian-mcveigh-6b05b6a",
+    "broker_simplified": "Samson Properties"
+  },
+  {
+    "first_name": "Robin",
+    "full_name": "Robin Butler",
+    "broker": "RE/MAX Gateway",
+    "yearly_sales": 3,
+    "total_sales": 100,
+    "average_price": 583000,
+    "last_two_listings": [
+      "1530 Key Blvd APT 623, Arlington, VA, 22209",
+      "503 Sherry Ann Ct SE, Leesburg, VA, 20175"
+    ],
+    "linkedin": "https://www.linkedin.com/in/butlerrobin",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Amberly",
+    "full_name": "Amberly Cicero",
+    "broker": "RE/MAX Gateway",
+    "yearly_sales": 2,
+    "total_sales": 20,
+    "average_price": 664000,
+    "last_two_listings": [
+      "11513 Albrite Ct, Manassas, VA, 20112",
+      "3548 Armfield Farm Dr, Chantilly, VA, 20151"
+    ],
+    "linkedin": "https://www.linkedin.com/in/amberly-cicero-6b1b31144",
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Dave",
+    "full_name": "Dave and JoAnne Adams Group",
+    "broker": "Coldwell Banker ",
+    "yearly_sales": 6,
+    "total_sales": 144,
+    "average_price": 671000,
+    "last_two_listings": [
+      "11102 Beaver Trail Ct UNIT 11102, Reston, VA, 20191",
+      "516 Camden Cir, Warrenton, VA, 20186"
+    ],
+    "linkedin": "https://www.linkedin.com/in/joanneadamsjustsold",
+    "broker_simplified": "Coldwell"
+  },
+  {
+    "first_name": "Artur",
+    "full_name": "Artur Guney",
+    "broker": "eXp Realty",
+    "yearly_sales": 16,
+    "total_sales": 152,
+    "average_price": 560000,
+    "last_two_listings": [
+      "22015 Guilford Station Ter, Sterling, VA, 20166",
+      "5004 Barnaby Ln, Oxon Hill, MD, 20745"
+    ],
+    "linkedin": "https://www.linkedin.com/in/arturguney",
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Carolyn",
+    "full_name": "Carolyn Young",
+    "broker": "Samson Properties",
+    "yearly_sales": 413,
+    "total_sales": 2984,
+    "average_price": 548000,
+    "last_two_listings": [
+      "24661 Woolly Mammoth Ter UNIT 204, Aldie, VA, 20105",
+      "14547 Old Mill Rd, Centreville, VA, 20121"
+    ],
+    "linkedin": "https://www.linkedin.com/in/carolynyoungteam",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Cheryl",
+    "full_name": "Cheryl Smith",
+    "broker": "Keller Williams Fairfax Gateway",
+    "yearly_sales": 9,
+    "total_sales": 62,
+    "average_price": 682000,
+    "last_two_listings": [
+      "3519 S Utah St, Arlington, VA, 22206",
+      "2705 N Greenbrier St, Arlington, VA, 22207"
+    ],
+    "linkedin": "https://www.linkedin.com/in/cherylsmithreagent",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Danielle",
+    "full_name": "Danielle Wateridge",
+    "broker": "BHHS PenFed Realty",
+    "yearly_sales": 32,
+    "total_sales": 282,
+    "average_price": 682000,
+    "last_two_listings": [
+      "362 Chappell St, Warrenton, VA, 20186",
+      "5732 Solheim Cup Dr, Haymarket, VA, 20169"
+    ],
+    "linkedin": "https://www.linkedin.com/in/danielle-wateridge-39782062",
+    "broker_simplified": "BHHS PenFed"
+  },
+  {
+    "first_name": "Dave",
+    "full_name": "Dave Hagigh",
+    "broker": "Samson Properties",
+    "yearly_sales": 1,
+    "total_sales": 28,
+    "average_price": 770000,
+    "last_two_listings": [
+      "20906 Royal Villa Ter, Sterling, VA, 20165",
+      "6218 29th St N, Arlington, VA, 22207"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Samson Properties"
+  },
+  {
+    "first_name": "Ellen",
+    "full_name": "Ellen Erikson",
+    "broker": "Long & Foster",
+    "yearly_sales": 7,
+    "total_sales": 90,
+    "average_price": 518000,
+    "last_two_listings": [
+      "17308 Camellia Dr, Ruther Glen, VA, 22546",
+      "9011 Kerrydale Ct, Springfield, VA, 22152"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ellen-erikson-0a418718",
+    "broker_simplified": "Long Foster"
+  },
+  {
+    "first_name": "Fenny",
+    "full_name": "Fenny Hurwitz",
+    "broker": "Keller Williams Realty Mclean/Great Falls",
+    "yearly_sales": 23,
+    "total_sales": 154,
+    "average_price": 929000,
+    "last_two_listings": [
+      "6501 Elnido Dr, Mc Lean, VA, 22101",
+      "8220 Crestwood Heights Dr APT 608, Mc Lean, VA, 22102"
+    ],
+    "linkedin": "https://www.linkedin.com/in/fennyhurwitz",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Kim",
+    "full_name": "Kim Kaufhold",
+    "broker": "RE/MAX West End",
+    "yearly_sales": 10,
+    "total_sales": 121,
+    "average_price": 832000,
+    "last_two_listings": [
+      "2850 Dover Ln APT 201, Falls Church, VA, 22042",
+      "937 Powhatan St, Alexandria, VA, 22314"
+    ],
+    "linkedin": null,
+    "broker_simplified": "RE/MAX"
+  },
+  {
+    "first_name": "Kristy",
+    "full_name": "Kristy Moore",
+    "broker": "Local Expert Realty",
+    "yearly_sales": 31,
+    "total_sales": 753,
+    "average_price": 622000,
+    "last_two_listings": [
+      "2630 John Milton Dr, Herndon, VA, 20171",
+      "9421 Wallingford Dr, Burke, VA, 22015"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kristylynam",
+    "broker_simplified": "Local Expert"
+  },
+  {
+    "first_name": "Matt",
+    "full_name": "Matt Elliott",
+    "broker": "Real Broker",
+    "yearly_sales": 32,
+    "total_sales": 528,
+    "average_price": 773000,
+    "last_two_listings": [
+      "14566 Olde Kent Rd, Centreville, VA, 20120",
+      "16636 Elk Run Ct, Leesburg, VA, 20176"
+    ],
+    "linkedin": "https://www.linkedin.com/in/matthew-elliott-ab8285212",
+    "broker_simplified": "Real"
+  },
+  {
+    "first_name": "Paul",
+    "full_name": "Paul Thistle",
+    "broker": "Take 2 Real Estate",
+    "yearly_sales": 73,
+    "total_sales": 1040,
+    "average_price": 770000,
+    "last_two_listings": [
+      "2503 Charlestown Ln, Reston, VA, 20191",
+      "803 Warlander Dr SW, Leesburg, VA, 20175"
+    ],
+    "linkedin": "https://www.linkedin.com/in/paul-thistle-b97a1151",
+    "broker_simplified": "Re/Max"
+  },
+  {
+    "first_name": "Peter",
+    "full_name": "Peter Samaan",
+    "broker": "Samson Properties",
+    "yearly_sales": 18,
+    "total_sales": 104,
+    "average_price": 671000,
+    "last_two_listings": [
+      "20944 Houseman Ter, Ashburn, VA, 20148",
+      "13102 Rockpointe Ct, Clifton, VA, 20124"
+    ],
+    "linkedin": null,
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Phillip",
+    "full_name": "Phillip Simon",
+    "broker": "eXp Realty, LLC",
+    "yearly_sales": 6,
+    "total_sales": 135,
+    "average_price": 669000,
+    "last_two_listings": [
+      "5831 Quantrell Ave APT 204, Alexandria, VA, 22312",
+      "3940 9th Rd S, Arlington, VA, 22204"
+    ],
+    "linkedin": "https://www.linkedin.com/in/pjsimon",
+    "broker_simplified": "eXp"
+  },
+  {
+    "first_name": "Scott",
+    "full_name": "Scott Shawkey",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 31,
+    "total_sales": 482,
+    "average_price": 1300000,
+    "last_two_listings": [
+      "1044 Bellview Rd, Mc Lean, VA, 22102",
+      "4936 Trail Vista Ln, Chantilly, VA, 20151"
+    ],
+    "linkedin": "https://www.linkedin.com/in/scottshawkey",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "SHARON",
+    "full_name": "SHARON ZARESKI",
+    "broker": "RE/MAX Choice",
+    "yearly_sales": 3,
+    "total_sales": 78,
+    "average_price": 627000,
+    "last_two_listings": [
+      "11623 Smithfield Rd, Manassas, VA, 20112",
+      "1250 S Washington St UNIT 407, Alexandria, VA, 22314"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sharon-zareski-92910826",
+    "broker_simplified": "REMAX"
+  },
+  {
+    "first_name": "Julie",
+    "full_name": "Julie Potter and Lynn Gouge",
+    "broker": "Samson Properties",
+    "yearly_sales": 5,
+    "total_sales": 368,
+    "average_price": 572000,
+    "last_two_listings": [
+      "10133 Forest Hill Cir, Manassas, VA, 20110",
+      "6099 Aster Haven Cir #151, Haymarket, VA, 20169"
+    ],
+    "linkedin": "https://www.linkedin.com/in/juliepotterrealtor",
+    "broker_simplified": "Samson"
+  },
+  {
+    "first_name": "Brian",
+    "full_name": "Brian Wilson",
+    "broker": "eXp Realty LLC",
+    "yearly_sales": 47,
+    "total_sales": 606,
+    "average_price": 664000,
+    "last_two_listings": [
+      "20743 Fenwick Dr, Ashburn, VA, 20147",
+      "11646 Park Green Dr, Fairfax, VA, 22030"
+    ],
+    "linkedin": "https://www.linkedin.com/in/brianwilsonbroker",
+    "broker_simplified": "EXP"
+  },
+  {
+    "first_name": "Candyce",
+    "full_name": "Candyce Astroth",
+    "broker": "Samson Properties ",
+    "yearly_sales": 104,
+    "total_sales": 371,
+    "average_price": 595000,
+    "last_two_listings": [
+      "9486 Virginia Center Blvd UNIT 201, Vienna, VA, 22181",
+      "7000 Falls Reach Dr APT 109, Falls Church, VA, 22043"
+    ],
+    "linkedin": "https://www.linkedin.com/in/candyce-astroth-04385b67",
+    "broker_simplified": "Samson's"
+  },
+  {
+    "first_name": "Joy",
+    "full_name": "Joy T. Khalil",
+    "broker": "Houwzer",
+    "yearly_sales": 0,
+    "total_sales": 91,
+    "average_price": 914000,
+    "last_two_listings": [
+      "5552 Village Center Dr, Centreville, VA, 20120",
+      "16036 Eagle Roost Ct, Woodbridge, VA, 22191"
+    ],
+    "linkedin": "https://www.linkedin.com/in/joykrealtors",
+    "broker_simplified": "Houwzer"
+  },
+  {
+    "first_name": "Karen",
+    "full_name": "Karen Parker",
+    "broker": "Keller Williams Realty",
+    "yearly_sales": 9,
+    "total_sales": 254,
+    "average_price": 627000,
+    "last_two_listings": [
+      "5904 Cove Landing Rd APT 202, Burke, VA, 22015",
+      "1513 Lincoln Way #203, McLean, VA, 22102"
+    ],
+    "linkedin": "https://www.linkedin.com/in/karenparkersellshomes",
+    "broker_simplified": "Keller Williams"
+  },
+  {
+    "first_name": "Steve",
+    "full_name": "Steve LePage",
+    "broker": "RE/MAX Allegiance",
+    "yearly_sales": 10,
+    "total_sales": 363,
+    "average_price": 593000,
+    "last_two_listings": [
+      "12000 Market St APT 379, Reston, VA, 20190",
+      "11577 Lake Newport Rd, Reston, VA, 20194"
+    ],
+    "linkedin": "https://www.linkedin.com/in/steve-lepage-28584283",
+    "broker_simplified": "RE/MAX"
   }
 ]
