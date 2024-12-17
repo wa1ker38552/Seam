@@ -23,6 +23,6 @@ def semantic_search(query, threshold):
         'score': item['score']
     } for item in r['chunks']]
 
-data = semantic_search('Jobs that relate to AI strategy or machine learning deployment', 0.75)
+data = semantic_search('More senior jobs that relate to AI strategy or machine learning deployment', 0.75)
 with open('semantic_search_results.json', 'w') as file:
     file.write(json.dumps(data, indent=2))
