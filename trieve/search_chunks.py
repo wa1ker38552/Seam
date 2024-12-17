@@ -1,4 +1,5 @@
 import requests
+import json
 
 headers = {
     "TR-Dataset": "fb4bbea7-484c-482d-b818-e9e5e41781e6",
@@ -16,8 +17,12 @@ def semantic_search(query, threshold):
     }
 
     r = requests.post('https://api.trieve.ai/api/chunk/search', headers=headers, json=payload).json()
-    return [{**item['chunk'], 'score': item['score']} for item in r['chunks']]
+    return [{
+        'description': item['chunk']['chunk_html'],
+        'metadata': item['chunk']['metadata'],
+        'score': item['score']
+    } for item in r['chunks']]
 
 data = semantic_search('Jobs that relate to AI strategy or machine learning deployment', 0.75)
-for item in data: print(item['score'], item['tracking_id'])
-print(len(data))
+with open('semantic_search_results.json', 'w') as file:
+    file.write(json.dumps(data, indent=2))
