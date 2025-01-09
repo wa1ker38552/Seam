@@ -5,3 +5,6 @@ apollo/coresignal account creation/credentials.json
 apollo/coresignal account creation/token.json
 apollo/coresignal account creation/coresignal_tokens.txt
 trieve/authorization.txt
+mail/All mail Including Spam and Trash-001.mbox
+mail/dump.json
+mail/sorted.json
