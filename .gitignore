@@ -8,3 +8,8 @@ trieve/authorization.txt
 mail/All mail Including Spam and Trash-001.mbox
 mail/dump.json
 mail/sorted.json
+mail/deepinfrakey.txt
+mail/exchanges.json
+mail/groqkeys.txt
+__pycache__
+mailbox
